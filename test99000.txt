@@ -1,1 +1,1960 @@
-test
+! 12/26/2018, 10:55:20 PM https://www.tv2.no/a/10294799
+www.tv2.no##.sticky.tv2-some > .share.showMore
+
+! 12/26/2018, 10:55:32 PM https://www.tv2.no/a/10294799
+www.tv2.no###aabl-container
+
+! 12/26/2018, 10:55:38 PM https://www.tv2.no/a/10294799
+www.tv2.no###tv2_topbanner-a
+
+! 12/26/2018, 10:55:43 PM https://www.tv2.no/a/10294799
+www.tv2.no##.header-stripe
+
+! 12/26/2018, 10:55:49 PM https://www.tv2.no/a/10294799
+www.tv2.no###header
+
+! 12/26/2018, 10:56:05 PM https://www.tv2.no/a/10294799
+www.tv2.no##.sticky.tv2-some-under-fullbleed > .share.showMore
+
+! 1/31/2018, 12:29:00 PM https://www.bloomberg.com/view/articles/2018-01-31/bitcoin-is-the-new-gold
+www.bloomberg.com##.current.transporter-item > article > .content-well > .right-rail > .sticky-container > .rotation-item.headshot_recirc
+
+! 1/31/2018, 3:39:03 PM https://www.digi.no/artikler/kraftig-bitcoin-fall-etter-reklameforbud/428839
+www.digi.no##aside
+
+www.reddit.com##div.author-tooltip
+
+! 2/2/2018, 3:59:58 PM https://twitter.com/dfr67000/lists/crypto
+twitter.com##.roaming-module.newest-members-module.component > .module > .flex-module
+
+! 2/2/2018, 4:00:33 PM https://twitter.com/dfr67000/lists/crypto
+twitter.com##.roaming-module.module.Footer > .flex-module
+
+! 2/4/2018, 8:11:37 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no##.efzxk
+
+! 2/4/2018, 8:12:13 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no##.aside-articles.articles-list.articles-widget
+
+! 2/4/2018, 8:12:42 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no##.article-header
+
+! 2/4/2018, 8:13:23 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no##.title > a[href^="https://logs1189.xiti.com/go.click"]
+
+
+
+! 2/4/2018, 8:13:49 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no##.content-marketing-list.articles-list
+
+! 2/4/2018, 8:14:03 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no###dp-plugin-element-related-17201517577108055
+
+! 2/4/2018, 8:14:42 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no###dp-plugin-element-related-56771517577080128
+
+! 2/4/2018, 8:14:59 PM https://e24.no/privat/bolig/varsler-kruttsterk-prisvekst-i-ny-boligfasit/24247312
+e24.no###dp-plugin-element-related-35771517577089398
+
+! 2/4/2018, 8:16:59 PM https://e24.no/naeringsliv/danske-bank-flytter-ut-av-aerverdig-bygg/24249940
+e24.no##.inner
+
+! 2/4/2018, 8:17:29 PM https://e24.no/naeringsliv/danske-bank-flytter-ut-av-aerverdig-bygg/24249940
+e24.no###dp-plugin-element-related-50411517726986960
+
+! 2/4/2018, 8:18:15 PM https://e24.no/naeringsliv/danske-bank-flytter-ut-av-aerverdig-bygg/24249940
+e24.no##.related-articles.articles-list
+
+! 2/5/2018, 11:16:20 PM https://www.tu.no/artikler/audis-elbilsjef-leverandorene-har-nok-tenkt-at-audi-har-gatt-fra-vettet/429587
+www.tu.no###job-feed-8038
+
+! 2/5/2018, 11:16:35 PM https://www.tu.no/artikler/audis-elbilsjef-leverandorene-har-nok-tenkt-at-audi-har-gatt-fra-vettet/429587
+www.tu.no##aside
+
+! 2/5/2018, 11:16:53 PM https://www.tu.no/artikler/audis-elbilsjef-leverandorene-har-nok-tenkt-at-audi-har-gatt-fra-vettet/429587
+www.tu.no##.comments-loaded.big-preamble.access-public.commercial.odd.single-headline.annonse.inline-preamble-link.preamble
+
+! 2/7/2018, 4:18:01 PM https://www.cnbc.com/2018/02/07/a-relationship-between-bitcoin-and-gold-exists-rbc-analyst-finds.html?__source=sharebar|twitter&par=sharebar
+www.cnbc.com##.metadata.docked-card
+
+! 2/8/2018, 7:00:17 PM https://cointelegraph.com/news/ecb-board-member-crypto-is-contagion-and-contamination-infecting-the-global-financial-system
+cointelegraph.com###post-sidebar
+
+! 2/13/2018, 1:38:35 AM https://www.cc.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+www.vg.no##.wbmov:nth-of-type(3) > .t1
+
+! 2/13/2018, 1:38:48 AM https://www.vg.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+!||1.vgc.no/img/vgab.png$image
+
+! 2/13/2018, 1:39:00 AM https://www.vg.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+www.vg.no##.wbmov:nth-of-type(3)
+
+! 2/13/2018, 1:39:14 AM https://www.vg.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+www.vg.no##.wbmov:nth-of-type(1)
+
+! 2/13/2018, 1:39:26 AM https://www.vg.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+!||1.vgc.no/img/vgab.png$image
+
+! 2/13/2018, 1:39:41 AM https://www.vg.no/nyheter/meninger/donald-trump/ungdomsopproeret-fra-hoeyre/a/23849156/
+www.vg.no##.wbmov:nth-of-type(2)
+
+! 2/15/2018, 3:22:32 PM https://www.aftenposten.no/meninger/kommentar/i/bKzE55/Hoyre-ligner-stadig-mer-pa-et-moderne-sosialdemokratisk-parti--Einar-Lie
+||ocacache-front.schibsted.tech/job.htm?sectionname=meninger&carouselid=1$subdocument
+
+! 2/15/2018, 3:56:57 PM https://www.tek.no/artikler/musk-skal-bygge-internett-i-verdensrommet-for-a-betale-for-mars-reiser/430587
+www.tek.no##aside
+
+! 2/17/2018, 12:43:48 AM https://www.nrk.no/ytring/velkommen-etter_-hoyre_-1.13919705
+www.nrk.no##.lp_related.article-sidebar.article-reference.sl18.sl12.sl9.sl6.s5.fl.col.g27
+
+! 2/17/2018, 3:01:35 AM https://www.tu.no/artikler/tesla-model-3-ulykke-i-en-annen-bil-ville-jeg-vaert-dod-br/430734
+www.tu.no##.swiper-container-horizontal.hide-navigation-auto.swiper-container
+
+! 2/17/2018, 3:01:48 AM https://www.tu.no/artikler/tesla-model-3-ulykke-i-en-annen-bil-ville-jeg-vaert-dod-br/430734
+www.tu.no##.full-width.daily-offers.products-carousel > header
+
+! 2/17/2018, 3:02:11 AM https://www.tu.no/artikler/tesla-model-3-ulykke-i-en-annen-bil-ville-jeg-vaert-dod-br/430734
+www.tu.no##.hide-on-mobile.line-top.clearfix.flex.col-full-width
+
+! 2/17/2018, 3:02:25 AM https://www.tu.no/artikler/tesla-model-3-ulykke-i-en-annen-bil-ville-jeg-vaert-dod-br/430734
+www.tu.no##.frontpage-feed.clearfix.flex.line-top.col-full-width
+
+
+
+
+! 3/12/2018, 7:09:37 PM https://www.reddit.com/r/WhereAreAllTheGoodMen/comments/80yxpb/new_carol_unlocked_the_cock_carousel_rider_a/
+www.reddit.com##.res-show-link
+
+! 3/12/2018, 9:41:18 PM https://www.liveleak.com/view?t=sFUv8_1520702160
+www.liveleak.com##.vjs-grid-box
+
+
+
+
+
+
+! 3/15/2018, 8:57:40 PM https://www.dnb.no/
+||www.dnb.no/portalfront/bilder-dnb/spare/kampanjer/florida-bader-dronebilde-1440-750.jpg$image
+
+! 3/15/2018, 8:57:58 PM https://www.dnb.no/
+www.dnb.no##.flex-active-slide
+
+! 3/15/2018, 8:58:09 PM https://www.dnb.no/
+||www.dnb.no/portalfront/bilder-dnb/Laan/finansieringsbevis/1440-750-finansieringsbevis-mann-barn-papegoye.jpg$image
+
+! 3/15/2018, 8:58:32 PM https://www.dnb.no/
+www.dnb.no##.slides > li:nth-of-type(2)
+
+! 3/15/2018, 8:58:40 PM https://www.dnb.no/
+www.dnb.no##.slides
+
+! 3/15/2018, 8:58:51 PM https://www.dnb.no/
+www.dnb.no###flexCarousel
+
+
+
+
+
+
+
+
+
+! 3/18/2018, 10:12:06 AM https://e24.no/digital/bank/eksperter-enige-om-bankenes-fremtid-tror-bankene-vil-tilby-helt-nye-tjenester/24193153
+e24.no###surveyBannerContainer
+
+! 3/19/2018, 1:54:52 AM https://g2reader.com/?settings
+g2reader.com###nostripe
+
+
+
+! 3/19/2018, 10:50:13 AM https://www.feedspot.com/
+www.feedspot.com###upgrade_sites
+
+! 3/19/2018, 10:50:48 AM https://www.feedspot.com/#all/all
+www.feedspot.com##.se-achoriz > .c1_151
+
+! 3/19/2018, 10:51:18 AM https://www.feedspot.com/#all/all
+www.feedspot.com##.navlinks-s2
+
+! 3/19/2018, 10:51:30 AM https://www.feedspot.com/#all/all
+www.feedspot.com##.se-ac
+
+! 3/19/2018, 10:52:34 AM https://www.feedspot.com/#feed/f_1318501
+www.feedspot.com###upgrade_sites_alt
+
+
+
+! 3/20/2018, 4:36:44 AM https://www.communitynews.com.au/stirling-times/news/hamersley-mother-avoids-jail-sentence-for-smothering-baby-son-with-pillow/
+www.communitynews.com.au##.modal-overlay
+
+! 3/20/2018, 4:36:56 AM https://www.communitynews.com.au/stirling-times/news/hamersley-mother-avoids-jail-sentence-for-smothering-baby-son-with-pillow/
+www.communitynews.com.au###modal-subscription-offer > .modal-anchor
+
+! 3/20/2018, 12:06:30 PM https://www.liveleak.com/view?i=e88_1507253728
+www.liveleak.com##.vjs-grid
+
+! 3/20/2018, 12:06:56 PM https://www.liveleak.com/view?i=e88_1507253728
+www.liveleak.com##.vjs-grid > .vjs-close-btn
+
+! 3/20/2018, 12:07:08 PM https://www.liveleak.com/view?i=e88_1507253728
+www.liveleak.com##.vjs-grid
+
+! 3/20/2018, 2:19:44 PM http://www.yougowords.com/double-vowels
+www.yougowords.com###formsModal
+
+
+
+! 3/21/2018, 5:57:02 AM http://www.metacritic.com/movie/11816
+||www.videodetective.net/player.aspx$media
+
+www.google.com##div[class*="explore-main"]
+www.google.com##div[class*="exp-outline"]
+
+! 3/27/2018, 3:57:30 PM https://www.google.com/search?pws=0&gl=us&ei=kE26WtK5MOjGgAbetKy4AQ&q=fisk&oq=fisk&gs_l=psy-ab.3..0l9j0i10k1.4948.5451.0.5798.4.4.0.0.0.0.116.444.0j4.4.0....0...1.1.64.psy-ab..0.4.440...0i67k1.0.jnlaTAT8aB4
+www.google.com##.r-i9Hj9agDEGm8.tJ05rf
+
+! 3/27/2018, 3:57:41 PM https://www.google.com/search?pws=0&gl=us&ei=kE26WtK5MOjGgAbetKy4AQ&q=fisk&oq=fisk&gs_l=psy-ab.3..0l9j0i10k1.4948.5451.0.5798.4.4.0.0.0.0.116.444.0j4.4.0....0...1.1.64.psy-ab..0.4.440...0i67k1.0.jnlaTAT8aB4
+www.google.com##.bkWMgd:nth-of-type(2) > .g-blk.mnr-c.kno-kp.g > .kno-ftr
+
+
+!www.google.com## .mw div[jsl^="$t"][jsl$="0;"][class^="r-"]
+
+www.google.com##div[class^="r-inw"]
+
+www.google.com##.exp-outline
+
+www.google.com##.ads-ad
+
+www.google.com##[id^="eobm_"]
+
+! 3/27/2018, 4:04:40 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.Iitddd
+
+! 3/27/2018, 4:04:48 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.r-i_DaS4oW96rw.tJ05rf > .mod.LKPcQc.viOShc.NFQFxe
+
+! 3/27/2018, 4:04:54 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.iyguuFOVKQbM-Dxg0p2iqJnc.nmt.nmtbi.nmiw.match-mod-horizontal-padding.s30t1e
+
+! 3/27/2018, 4:05:02 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.i1p_Ra_H5Rl4-Dxg0p2iqJnc.nmt.nmtbi.nmiw.match-mod-horizontal-padding.s30t1e
+
+! 3/27/2018, 4:05:15 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.idBO2q_kuVEs-Dxg0p2iqJnc.nmt.nmtbi.nmiw.match-mod-horizontal-padding.s30t1e
+
+! 3/27/2018, 4:05:20 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.iVDPyA73uAmc-Dxg0p2iqJnc.nmt.nmtbi.nmiw.match-mod-horizontal-padding.s30t1e > .psDd8d > .NWt7k
+
+! 3/27/2018, 4:05:27 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.iVDPyA73uAmc-Dxg0p2iqJnc.nmt.nmtbi.nmiw.match-mod-horizontal-padding.s30t1e
+
+! 3/27/2018, 4:05:39 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.r-i1p_Ra_H5Rl4.related-question-pair.m7VU0c.iLxF8MrHqtPI-q0_7ulvsJF4
+
+! 3/27/2018, 4:05:46 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.r-iyguuFOVKQbM.related-question-pair.m7VU0c.iLxF8MrHqtPI-q0_7ulvsJF4
+
+! 3/27/2018, 4:05:52 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.r-iVDPyA73uAmc.related-question-pair.m7VU0c.iLxF8MrHqtPI-q0_7ulvsJF4
+
+! 3/27/2018, 4:05:59 PM https://www.google.com/search?pws=0&gl=us&ei=H0-6WtP6BsGMkgX2kqOQDA&q=fisk&oq=fisk&gs_l=psy-ab.12...0.0.0.3415.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.-gOLkfXWkiY
+www.google.com##.r-idBO2q_kuVEs.related-question-pair.m7VU0c.iLxF8MrHqtPI-q0_7ulvsJF4
+
+
+
+
+! 4/10/2018, 2:19:36 PM https://www.facebook.com/olaborten.moe.7/posts/449708858781109
+www.facebook.com##._3ob9
+
+*.g00.vg.no
+
+! 4/11/2018, 1:59:57 AM http://neveryetmelted.com/2018/04/05/the-age-of-the-whiny-victim/
+||neveryetmelted.com/wp-content/uploads/2017/11/CelebrityDresses125.gif$image
+
+! 4/11/2018, 11:50:26 AM https://www.oa.no/nyheter/barnevern/kriminalitet-og-rettsvesen/kvinne-domt-for-seksuell-omgang-med-ung-asylsoker/s/5-35-603742?_ga=2.142649717.1301577400.1523430051-1549302224.1523430051&access=granted
+www.oa.no###aid-overlay
+
+! 4/13/2018, 1:13:28 PM https://morgenbladet.no/aktuelt/2018/04/hvordan-renere-luft-vil-endre-klimaet
+morgenbladet.no##.premium-content-container > a[href^="http://bestilling.morgenbladet.no/index.php"]
+
+! 4/13/2018, 1:13:34 PM https://morgenbladet.no/aktuelt/2018/04/hvordan-renere-luft-vil-endre-klimaet
+||morgenbladet.no/sites/morgenbladet.no/themes/mb15/images/premium-ab-test/web.jpg$image
+
+! 4/13/2018, 1:13:41 PM https://morgenbladet.no/aktuelt/2018/04/hvordan-renere-luft-vil-endre-klimaet
+morgenbladet.no##.premium-message-2.premium-message
+
+! 4/13/2018, 1:13:52 PM https://morgenbladet.no/aktuelt/2018/04/hvordan-renere-luft-vil-endre-klimaet
+morgenbladet.no##.preview-overlay
+
+! 4/26/2018, 1:44:52 PM https://www.tv2.no/a/9817963
+www.tv2.no###eb-modal-content
+
+! 4/26/2018, 1:45:12 PM https://www.tv2.no/a/9817963
+www.tv2.no###eb-modal-background
+
+! 4/30/2018, 5:04:28 PM https://www.digi.no/artikler/kontrollpanelet-til-taubane-var-apent-tilgjengelig-via-internett/436120
+www.digi.no##.el-card__body
+
+! 4/30/2018, 5:04:46 PM https://www.digi.no/artikler/kontrollpanelet-til-taubane-var-apent-tilgjengelig-via-internett/436120
+www.digi.no##.clear.clearfix.tujobs-featured-ad.tujobs-text-ad.tujobs-ad.feed
+
+! 5/12/2018, 11:31:36 AM https://www.lofotposten.no/bolig/eiendom/flakstad/selger-oy-i-lofoten-for-6-000-000-kroner/s/5-29-378674
+www.lofotposten.no###aid-overlay
+
+! 5/24/2018, 5:37:45 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###contents > .ytd-browse-secondary-contents-renderer.style-scope
+
+! 5/24/2018, 5:38:33 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+
+! 5/24/2018, 5:38:44 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-section-title
+
+! 5/24/2018, 5:38:50 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+
+! 5/24/2018, 5:38:58 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+
+! 5/24/2018, 5:39:05 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##ytd-guide-signin-promo-renderer.ytd-guide-renderer.style-scope
+
+! 5/24/2018, 5:39:12 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! 5/24/2018, 5:39:19 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-links-primary
+
+! 5/24/2018, 5:39:26 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-links-secondary
+
+! 5/24/2018, 5:39:32 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###copyright
+
+! 5/24/2018, 5:39:41 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-inner-content
+
+! 5/24/2018, 5:39:50 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-content
+
+! 5/24/2018, 5:39:56 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###guide-wrapper
+
+! 5/24/2018, 5:42:06 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.container.yt-simple-endpoint
+
+! 5/24/2018, 5:42:18 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg
+www.youtube.com###secondary-links > .ytd-c4-tabbed-header-renderer.style-scope.yt-simple-endpoint
+
+! 5/24/2018, 5:42:59 PM https://www.youtube.com/channel/UCKEt1xKVBLuL175dkk8rqLg/videos
+www.youtube.com##div.ytd-c4-tabbed-header-renderer.style-scope.banner-visible-area
+
+! 5/28/2018, 3:56:52 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##[src="blob:https://www.tu.no/82cdb876-6e70-431e-95b9-c5cd6b61723b"]
+
+! 5/28/2018, 3:57:08 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##.poster-980x150.poster-placeholder
+
+! 5/28/2018, 3:57:17 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##.align-center.top-poster-wrap
+
+! 5/28/2018, 3:58:18 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##.big-preamble.access-public.commercial.odd.single-headline.annonse.inline-preamble-link.preamble
+
+! 5/28/2018, 3:58:30 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##[src="blob:https://www.tu.no/5b1ac33a-f53f-41f2-9d61-5dbf5f658625"]
+
+! 5/28/2018, 3:58:37 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##.poster-inline-article.poster-300x250.poster-placeholder
+
+! 5/28/2018, 4:00:18 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##[src="blob:https://www.tu.no/f263b1d8-063e-412b-a2db-671f841e4fb9"]
+
+! 5/28/2018, 4:00:24 AM https://www.tu.no/artikler/krypterings-skandale-viser-viktigheten-av-kvante-teleportering/438176
+www.tu.no##div.poster-300x250.poster-placeholder:nth-of-type(2)
+
+! 5/31/2018, 10:26:35 AM https://www.dnb.no/segp/ps/startsiden?firstrequestafterlogon=true
+www.dnb.no##.full.hbkCarousel > .content
+
+! 5/31/2018, 10:26:42 AM https://www.dnb.no/segp/ps/startsiden?firstrequestafterlogon=true
+www.dnb.no##.pagination
+
+! 5/31/2018, 10:26:50 AM https://www.dnb.no/segp/ps/startsiden?firstrequestafterlogon=true
+www.dnb.no##.full.hbkCarousel
+
+ ||youtube.com/annotations_
+
+! 6/7/2018, 9:50:13 AM https://www.youtube.com/results?search_query=interstellar+ending+explained
+www.youtube.com##ytd-movie-renderer.ytd-item-section-renderer.style-scope
+
+! 6/8/2018, 5:41:33 AM https://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56060718/07-06-2018#t=31m25s
+tv.nrk.no##div.ludo-captions__line:nth-of-type(1)
+
+! 6/8/2018, 5:42:22 AM https://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56060718/07-06-2018#t=31m25s
+tv.nrk.no##div.ludo-captions__line:nth-of-type(2) > .ludo-captions__line-inner
+
+! 6/8/2018, 5:43:18 AM https://tv.nrk.no/serie/dagsnytt-atten-tv/NNFA56060718/07-06-2018#t=31m25s
+tv.nrk.no##.tv-header__top
+
+
+
+! 6/11/2018, 1:04:38 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._3r-np
+
+! 6/11/2018, 1:04:48 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._1K9_6
+
+! 6/11/2018, 1:05:16 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._4KS1F
+
+! 6/11/2018, 1:06:37 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._1ZVOW
+
+! 6/11/2018, 1:06:52 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##.p4A9B
+
+! 6/11/2018, 1:07:08 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._10Pby
+
+! 6/11/2018, 1:07:18 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._2Z8Lj
+
+! 6/11/2018, 1:07:36 PM https://www.vg.no/nyheter/innenriks/i/3jdAvv/stoere-om-gjengavsloeringen-politiet-har-ikke-gjort-en-god-nok-jobb
+www.vg.no##._23z-f
+
+! 6/11/2018, 1:15:45 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.header-main-area
+
+! 6/11/2018, 1:15:57 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.hm-top-bar > .hm-container
+
+! 6/11/2018, 1:16:04 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com###site-navigation
+
+! 6/11/2018, 1:16:10 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.hm-top-bar
+
+! 6/11/2018, 1:16:33 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.ui-corner-all.ui-widget-content.ui-widget.ui-tabs.hm-tabs-wdt
+
+! 6/11/2018, 1:16:40 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com###sidebar_posts-4 > .hitmag-category-posts
+
+! 6/11/2018, 1:16:46 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com###sidebar_posts-6 > .hitmag-category-posts
+
+! 6/11/2018, 1:16:51 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com###sidebar_posts-9 > .hitmag-category-posts
+
+! 6/11/2018, 1:16:56 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com###sidebar_posts-11 > .hitmag-category-posts
+
+! 6/11/2018, 1:17:25 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.footer-widget-area
+
+! 6/11/2018, 1:17:48 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.hm-related-posts
+
+! 6/11/2018, 1:17:59 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.hm-authorbox
+
+! 6/11/2018, 1:18:05 PM https://rapport-x.com/2018/06/11/hvorfor-rapporteres-det-ikke-om-massedemonstrasjonene-i-london/
+rapport-x.com##.post-navigation.navigation
+
+! 6/11/2018, 2:08:57 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.beta
+
+! 6/11/2018, 2:09:17 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.bdrgr3.cleared.link-lccox.wocc.nav-secondary
+
+! 6/11/2018, 2:09:24 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+||i.dailymail.co.uk/i/pix/channelheaders/news_masthead.gif$image
+
+! 6/11/2018, 2:09:30 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.masthead
+
+! 6/11/2018, 2:09:36 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+blob:http://www.dailymail.co.uk/ddb362d3-5e1e-48d7-b3c2-700450bfbc86$domain=www.dailymail.co.uk,image
+
+! 6/11/2018, 2:09:41 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.cnr5.bdrgr3.cleared.nav-primary
+
+! 6/11/2018, 2:09:55 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.supplements
+
+! 6/11/2018, 2:10:03 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk###weather-wrapper
+
+! 6/11/2018, 2:12:28 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.bdrcc.rotator
+
+! 6/11/2018, 2:13:36 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk###most-watched-videos
+
+! 6/11/2018, 2:13:56 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk##.wocc.rotator-title
+
+! 6/11/2018, 2:14:04 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk###most-read-news
+
+! 6/11/2018, 2:15:38 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk###infinite-list
+
+! 6/11/2018, 2:15:45 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+blob:http://www.dailymail.co.uk/ddb362d3-5e1e-48d7-b3c2-700450bfbc86$domain=www.dailymail.co.uk,image
+
+! 6/11/2018, 2:15:49 PM http://www.dailymail.co.uk/news/article-5820971/Germany-set-make-educational-state-funded-feminist-pornography-combat-sexist-stereotypes.html
+www.dailymail.co.uk###footer-1 > .bdrgr3.cleared.nav-primary
+
+! 6/11/2018, 2:17:01 PM http://www.returnofkings.com/178122/female-police-officers-in-belgium-are-easily-disarmed-and-murdered-by-islamic-fanatic
+www.returnofkings.com###wpp-5
+
+! 6/11/2018, 2:17:19 PM http://www.returnofkings.com/178122/female-police-officers-in-belgium-are-easily-disarmed-and-murdered-by-islamic-fanatic
+www.returnofkings.com###text-11
+
+! 6/11/2018, 2:17:30 PM http://www.returnofkings.com/178122/female-police-officers-in-belgium-are-easily-disarmed-and-murdered-by-islamic-fanatic
+www.returnofkings.com###text-12
+
+! 6/11/2018, 2:17:38 PM http://www.returnofkings.com/178122/female-police-officers-in-belgium-are-easily-disarmed-and-murdered-by-islamic-fanatic
+www.returnofkings.com###rpwe_widget-3
+
+! 6/11/2018, 2:17:44 PM http://www.returnofkings.com/178122/female-police-officers-in-belgium-are-easily-disarmed-and-murdered-by-islamic-fanatic
+www.returnofkings.com###M322148PreloadC225736
+
+! 6/12/2018, 1:16:58 PM https://www.dagbladet.no/kultur/fremskrittspartiet-i-falsk-opposisjon/69891590
+www.dagbladet.no##main > div.row:nth-of-type(3)
+
+! 6/12/2018, 1:17:12 PM https://www.dagbladet.no/kultur/fremskrittspartiet-i-falsk-opposisjon/69891590
+www.dagbladet.no###ad_coupon_links > .medium-12.small-12.large-12.columns
+
+! 6/12/2018, 1:17:21 PM https://www.dagbladet.no/kultur/fremskrittspartiet-i-falsk-opposisjon/69891590
+www.dagbladet.no##main > div.row:nth-of-type(4)
+
+! 6/12/2018, 1:17:59 PM https://www.dagbladet.no/nyheter/donald-trump-om-avtalen-med-kim-jong-un---motet-var-aerlig-direkte-og-produktivt/69892590
+www.dagbladet.no##div.row:nth-of-type(5)
+
+! 6/14/2018, 11:08:24 PM https://www.avoiceformen.com/feminism/how-feminists-developed-toxic-masculinity/
+www.avoiceformen.com###text-2 > .widget-wrap > .textwidget
+
+! 6/14/2018, 11:08:32 PM https://www.avoiceformen.com/feminism/how-feminists-developed-toxic-masculinity/
+www.avoiceformen.com##.widget-area.sidebar-primary.sidebar
+
+! 6/14/2018, 11:25:32 PM http://www.breitbart.com/big-government/2018/06/13/maryland-teachers-students-live-fear-ms-13-middle-schoolers/
+www.breitbart.com###SideW
+
+! 6/16/2018, 10:43:39 AM https://www.bloomberg.com/news/articles/2018-06-14/twitter-to-face-claims-by-white-advocate-over-banned-accounts
+www.bloomberg.com##.current.transporter-item > article > .content-well-v2 > .right-rail-v2.right-rail > .sticky-container > .rotation-item.recirc-v2
+
+! 6/19/2018, 12:22:51 PM https://morgenbladet.no/boker/2018/06/et-forsvar-late-morgener-og-sene-kvelder
+||morgenbladet.no/sites/default/themes/mb15/images/premium-campaign-summer-18/BG-web_x2.png$image
+
+! 6/19/2018, 12:22:59 PM https://morgenbladet.no/boker/2018/06/et-forsvar-late-morgener-og-sene-kvelder
+morgenbladet.no##.premium-message-3.premium-message
+
+! 6/19/2018, 12:23:08 PM https://morgenbladet.no/boker/2018/06/et-forsvar-late-morgener-og-sene-kvelder
+morgenbladet.no##.pane-siste-mest-lest.pane-views.panel-pane
+
+! 6/19/2018, 12:23:18 PM https://morgenbladet.no/boker/2018/06/et-forsvar-late-morgener-og-sene-kvelder
+morgenbladet.no##.promo-block.pane-block-15.pane-block.panel-pane
+
+! 6/19/2018, 12:23:28 PM https://morgenbladet.no/boker/2018/06/et-forsvar-late-morgener-og-sene-kvelder
+morgenbladet.no##.closed.pane-sections.pane-entity-collection.panel-pane
+
+! 6/22/2018, 9:17:20 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###na_header
+
+! 6/22/2018, 9:17:27 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+ www.nettavisen.no###services
+
+! 6/22/2018, 9:17:54 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###nabloggere
+
+! 6/22/2018, 9:18:00 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###bottom-most-read
+
+! 6/22/2018, 9:18:09 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###bottom-last-news
+
+! 6/22/2018, 9:18:18 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+||www.nettavisen.no/templates/v2/images/footer/backgr-img.jpg$image
+
+! 6/22/2018, 9:18:27 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###footer-contact
+
+! 6/22/2018, 9:18:35 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+||www.nettavisen.no/templates/v2/images/footer/logo-na.jpg$image
+
+! 6/22/2018, 9:18:42 PM https://www.nettavisen.no/nyheter/innenriks/helikopter-var-borti-strmlinjer-i-aust-agder/3423505761.html
+www.nettavisen.no###footer-copy > div:nth-of-type(2) > p
+
+! 6/23/2018, 1:36:57 PM https://resett.no/2018/06/23/asylpolitikkens-blodige-pris/
+resett.no##.td-ss-main-sidebar
+
+! 6/23/2018, 1:53:16 PM https://itavisen.no/2018/06/23/na-kan-iphone-apnes-med-en-lightning-kabel/
+itavisen.no###subheader
+
+! 6/23/2018, 1:53:24 PM https://itavisen.no/2018/06/23/na-kan-iphone-apnes-med-en-lightning-kabel/
+itavisen.no###top-header
+
+! 6/23/2018, 1:53:46 PM https://itavisen.no/2018/06/23/na-kan-iphone-apnes-med-en-lightning-kabel/
+itavisen.no##.primary.footer-part
+
+! 6/23/2018, 1:54:12 PM https://itavisen.no/2018/06/23/na-kan-iphone-apnes-med-en-lightning-kabel/
+itavisen.no###header-navigation
+
+! 6/23/2018, 1:55:04 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no###e24header
+
+! 6/23/2018, 1:55:27 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no###mostShared
+
+! 6/23/2018, 1:55:41 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.first.frontrow.row
+
+! 6/23/2018, 1:55:52 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no###frontEmbed > .e24-section-header > h6
+
+
+
+! 6/23/2018, 1:56:11 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.app-download-widget__container
+
+! 6/23/2018, 1:56:25 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.facebook > li
+
+! 6/23/2018, 1:56:30 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.twitter > li
+
+! 6/23/2018, 1:56:37 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.linkedin > li
+
+! 6/23/2018, 1:57:29 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##.comments-intro
+
+! 6/23/2018, 1:58:45 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##[href="http://e24.no/om-oss"]
+
+! 6/23/2018, 1:58:50 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##li:nth-of-type(2) > [href="http://annonseweb.schibsted.no/en/brands/e24-no-375"]
+
+! 6/23/2018, 1:58:55 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##[href="http://e24.no/tips-oss"]
+
+! 6/23/2018, 1:58:59 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##[href="http://e24.no/nyhetsbrev"]
+
+! 6/23/2018, 1:59:03 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##[href="http://e24.no/rss/tilpass"]
+
+! 6/23/2018, 1:59:08 PM https://e24.no/livsstil/vin-og-oel/co-svikt-truer-oel-og-matprodusenter-i-europa-frykter-oelmangel-under-vm/24376375
+e24.no##[href="http://e24.no/min-E24"]
+
+! 6/23/2018, 2:00:07 PM https://www.aftenposten.no/viten/i/Kv9Ld4/Norske-menns-IQ-faller-Hva-sa
+www.aftenposten.no##.ch-header-main
+
+! 6/23/2018, 2:03:18 PM https://www.aftenposten.no/viten/i/Kv9Ld4/Norske-menns-IQ-faller-Hva-sa
+www.aftenposten.no###widget-5489352473871401
+
+! 6/23/2018, 2:03:35 PM https://www.aftenposten.no/viten/i/Kv9Ld4/Norske-menns-IQ-faller-Hva-sa
+www.aftenposten.no##.footer-content
+
+! 6/23/2018, 2:03:46 PM https://www.aftenposten.no/viten/i/Kv9Ld4/Norske-menns-IQ-faller-Hva-sa
+www.aftenposten.no##.ch-sub-links.ch-section-links
+
+! 6/23/2018, 2:03:54 PM https://www.aftenposten.no/viten/i/Kv9Ld4/Norske-menns-IQ-faller-Hva-sa
+www.aftenposten.no##.ch-core-header
+
+! 6/23/2018, 2:09:19 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no##.o-layout__module.c-header
+
+! 6/23/2018, 2:09:40 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no##.c-article__category
+
+! 6/23/2018, 2:10:49 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no##.u-desktop-only.u-base-onethird.c-most-read > div:nth-of-type(2)
+
+! 6/23/2018, 2:11:32 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no###dp-plugin-element-related-50111529568122395
+
+! 6/23/2018, 2:11:39 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no###dp-plugin-element-related-97721529568152656
+
+! 6/23/2018, 2:12:58 PM https://www.abcnyheter.no/nyheter/politikk/2018/06/21/195408452/norsk-syria-kjenner-forferdelig-politisk-sensur-fra-facebook
+www.abcnyheter.no###dp-plugin-element-related-89461529568197019
+
+! 6/23/2018, 2:22:19 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+||pbx.images.nettavisen.no/?url=http://smooth-storage.aptoma.no/users/drp-nettavisen-upload/files/bloggheader/kjellmagnerystad1.jpg&w=980$image
+
+! 6/23/2018, 2:22:28 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+||www.nettavisen.no/templates/v2/tiles/article/meninger/header-bloggno.html$subdocument
+
+! 6/23/2018, 2:22:36 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+www.nettavisen.no###external-blogger-header > .clearfix
+
+! 6/23/2018, 2:23:16 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+www.nettavisen.no###blogger-about-me
+
+! 6/23/2018, 2:23:23 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+www.nettavisen.no###blogger-last-posts
+
+! 6/23/2018, 2:23:38 PM https://www.nettavisen.no/meninger/kjellmagnerystad/byutviklingen-i-oslo-er-brutal/3423505613.html
+www.nettavisen.no###blogger-last-other-posts
+
+
+
+! 6/23/2018, 3:00:47 PM https://www.vg.no/nyheter/meninger/i/jPAKeL/stoeres-asylmareritt
+www.vg.no##aside:nth-of-type(1) > ._18FzH
+
+! 6/23/2018, 3:01:46 PM https://www.vg.no/nyheter/meninger/i/jPAKeL/stoeres-asylmareritt
+www.vg.no##aside:nth-of-type(2) > ._18FzH
+
+! 6/23/2018, 3:02:10 PM https://www.vg.no/nyheter/meninger/i/jPAKeL/stoeres-asylmareritt
+www.vg.no##aside:nth-of-type(3) > ._18FzH
+
+! 6/23/2018, 3:05:56 PM https://www.stuff.tv/features/47-essential-albums-audiophiles
+www.stuff.tv##.red
+
+! 6/23/2018, 3:06:22 PM https://www.stuff.tv/features/47-essential-albums-audiophiles
+www.stuff.tv###main-menu
+
+! 6/23/2018, 3:06:29 PM https://www.stuff.tv/features/47-essential-albums-audiophiles
+www.stuff.tv##.grey > .container > .grid_16
+
+! 6/23/2018, 3:06:40 PM https://www.stuff.tv/features/47-essential-albums-audiophiles
+www.stuff.tv##.desktop-search-processed.desktop-search
+
+! 6/23/2018, 3:06:53 PM https://www.stuff.tv/features/47-essential-albums-audiophiles
+www.stuff.tv##.sidebar.column.region-sidebar-second.region
+
+! 6/23/2018, 3:57:06 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-07399223402465349 > div > .mm-pelt-entries > div.mm-pelt-column:nth-of-type(1)
+
+! 6/23/2018, 3:57:13 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-07399223402465349 > div > .mm-pelt-entries > div.mm-pelt-column:nth-of-type(2)
+
+! 6/23/2018, 3:57:19 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-07399223402465349 > div > .mm-pelt-intro
+
+! 6/23/2018, 3:57:33 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-07399223402465349 > div > .mm-pelt-entries > div.mm-pelt-column:nth-of-type(3)
+
+! 6/23/2018, 3:57:46 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-7759728000132529 > div > .mm-pelt-intro
+
+! 6/23/2018, 3:57:51 PM https://www.aftenposten.no/meninger/kommentar/i/5V4jlz/NATO-satser-pa-en-stor-militarovelse-i-Norge-Det-er-ikke-tilfeldig--Frank-Rossavik#xtor=RSS-3
+www.aftenposten.no###widget-7759728000132529
+
+! 6/23/2018, 4:01:02 PM https://www.aftenposten.no/meninger/kommentar/i/0ExL3o/Politikeren-Jens-Evensen-far-egen-statue-i-hovedstaden-Er-det-riktig--Harald-Stanghelle#xtor=RSS-3
+www.aftenposten.no##div.mm-pelt-column:nth-of-type(3)
+
+! 6/23/2018, 4:01:08 PM https://www.aftenposten.no/meninger/kommentar/i/0ExL3o/Politikeren-Jens-Evensen-far-egen-statue-i-hovedstaden-Er-det-riktig--Harald-Stanghelle#xtor=RSS-3
+www.aftenposten.no##.mm-pelt-entries
+
+! 6/23/2018, 4:01:15 PM https://www.aftenposten.no/meninger/kommentar/i/0ExL3o/Politikeren-Jens-Evensen-far-egen-statue-i-hovedstaden-Er-det-riktig--Harald-Stanghelle#xtor=RSS-3
+www.aftenposten.no##.mm-pelt-title
+
+! 6/23/2018, 4:02:33 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.dn.paywall-banner
+
+! 6/23/2018, 4:02:40 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.award_circle > p
+
+! 6/23/2018, 4:02:47 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.award_circle
+
+! 6/23/2018, 4:02:56 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.dn.navigation
+
+! 6/23/2018, 4:03:06 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no###mostread_list_original
+
+! 6/23/2018, 4:03:15 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.dnscroller.inpage-widget-5163628.viziwyg-section-342.widget-editable.vertical.jobscroller.widget.dn
+
+! 6/23/2018, 4:05:03 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no###mostReadArticles
+
+! 6/23/2018, 4:05:12 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no###topNewsLink
+
+! 6/23/2018, 4:05:18 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no###article_page_search_form
+
+! 6/23/2018, 4:05:27 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.cols--three.cols
+
+! 6/23/2018, 4:05:35 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.dn.donthatetimvandamme > ul
+
+! 6/23/2018, 4:06:11 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.dn-relation-block.dn-mulitple-relations-block
+
+! 6/23/2018, 4:06:20 PM https://www.dn.no/nyheter/2018/06/23/1327/Handel/-vi-har-ikke-printer-i-salongene-og-kommer-heller-ikke-til-a-skaffe-oss-det
+www.dn.no##.taglist
+
+! 6/23/2018, 6:25:12 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_9_5b2e743b07004_rand.td_block_widget.td_block_9.td_block_wrap
+
+! 6/23/2018, 6:25:21 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_8_5b2e743b0401f_rand.td_block_widget.td_block_8.td_block_wrap
+
+! 6/23/2018, 6:25:43 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.td_uid_3_5b2e743b0213a_rand.td_block_related_posts.td_block_wrap
+
+! 6/23/2018, 6:26:06 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-post-next-prev.td-block-row
+
+! 6/23/2018, 6:26:17 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-container.td-footer-container
+
+! 6/23/2018, 6:26:23 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-container-border.td-container.td-sub-footer-container > .td-pb-row
+
+! 6/23/2018, 6:26:32 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-container-border.td-container.td-sub-footer-container
+
+! 6/23/2018, 6:26:49 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-header-header.td-header-row
+
+! 6/23/2018, 6:26:58 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no###td-header-menu
+
+! 6/23/2018, 6:27:06 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no###td-header-search-button > .td-icon-search
+
+! 6/23/2018, 6:27:11 PM https://ektenyheter.no/index.php/2018/05/stottemarkering-tommy-robinson-fredag-1-6/
+ektenyheter.no##.td-header-menu-wrap
+
+! 6/23/2018, 6:28:02 PM https://ektenyheter.no/index.php/2018/05/the-tyranny-of-minorities/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_8_5b2e75075d297_rand.td_block_widget.td_block_8.td_block_wrap
+
+! 6/23/2018, 6:28:07 PM https://ektenyheter.no/index.php/2018/05/the-tyranny-of-minorities/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_9_5b2e75075fe84_rand.td_block_widget.td_block_9.td_block_wrap
+
+! 6/23/2018, 6:38:00 PM https://ektenyheter.no/index.php/2018/06/ikke-vestlig-morder-slapp-fengselsstraff-i-tyskland/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_8_5b2e76f4f1373_rand.td_block_widget.td_block_8.td_block_wrap
+
+! 6/23/2018, 6:38:05 PM https://ektenyheter.no/index.php/2018/06/ikke-vestlig-morder-slapp-fengselsstraff-i-tyskland/
+ektenyheter.no##.td_block_template_1.td-pb-border-top.td_uid_9_5b2e76f4f36f8_rand.td_block_widget.td_block_9.td_block_wrap
+
+! 6/24/2018, 11:58:22 AM https://www.digi.no/artikler/denne-skal-du-kunne-bruke-under-alle-slags-toffe-arbeidsforhold/440573
+www.digi.no##.align-center.top-poster-wrap
+
+! 6/24/2018, 11:58:29 AM https://www.digi.no/artikler/denne-skal-du-kunne-bruke-under-alle-slags-toffe-arbeidsforhold/440573
+www.digi.no###header
+
+
+
+! 6/25/2018, 2:59:23 PM https://www.nettavisen.no/meninger/gunnarstavrum/arbeiderpartiet-styrer-mot-full-asylkrangel/3423506515.html
+||pbx.images.nettavisen.no/?url=https://smooth-storage.aptoma.no/users/drp-nettavisen-upload/files/bloggheader/stavrum.jpg&w=980$image
+
+! 6/25/2018, 4:02:25 PM https://www.tek.no/artikler/chilimobil-strong-sperret-strong-for-databruk-pa-fri-bruk-abonnementet-til-marius/440756
+www.tek.no##.article-preambles.clear.article-feed
+
+! 6/25/2018, 4:02:37 PM https://www.tek.no/artikler/chilimobil-strong-sperret-strong-for-databruk-pa-fri-bruk-abonnementet-til-marius/440756
+www.tek.no##.f-left.no-margin.col-two-thirds.clearfix.small-feed
+
+! 6/26/2018, 4:08:37 PM https://tv.nrk.no/program/KOID23003317/eit-varsla-brotsverk
+tv.nrk.no##div.ludo-captions__line:nth-of-type(3) > .ludo-captions__line-inner
+
+! 6/30/2018, 11:45:37 PM https://www.ccn.com/hayes-a-positive-regulatory-etf-will-push-bitcoin-to-50000-in-2018/
+www.ccn.com##.sidebar-left.sidebar
+
+! 6/30/2018, 11:45:44 PM https://www.ccn.com/hayes-a-positive-regulatory-etf-will-push-bitcoin-to-50000-in-2018/
+www.ccn.com##.pt-4.sidebar-right.sidebar
+
+
+
+! 7/1/2018, 10:15:03 PM https://www.document.no/2018/07/01/klimasaken-er-blitt-kjonns-og-identitetspolitikk/
+www.document.no##.extra-padding-left.visible-lg.col-md-4
+
+! 7/4/2018, 3:28:10 PM https://www.dagsavisen.no/innenriks/ut-mot-sverre-diesen-slike-utspill-bidrar-ingenting-i-forsvarsdebatten-1.1167064
+www.dagsavisen.no##.sticky__top
+
+! 7/9/2018, 12:33:57 AM https://webcache.googleusercontent.com/search?q=cache:SwaiWnPAl7kJ:https://www.aftenposten.no/kultur/i/21e5ba/-Sexroboter-er-en-global-trend-som-kommer-uansett+&cd=1&hl=en&ct=clnk&gl=us
+webcache.googleusercontent.com##.ch-header-main
+
+! 7/9/2018, 12:40:22 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+www.economist.com##.ribbon__clickable-banner
+
+! 7/9/2018, 12:40:28 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+www.economist.com##.ribbon__banner
+
+! 7/9/2018, 12:40:45 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+||www.economist.com/sites/default/files/cover-journals-amazons-empire.png$image
+
+! 7/9/2018, 12:40:57 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+www.economist.com##.ribbon__body
+
+! 7/9/2018, 12:41:06 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+www.economist.com##.ribbon__arrow-button
+
+! 7/9/2018, 12:41:16 AM https://www.economist.com/bagehots-notebook/2018/07/06/labour-is-no-longer-the-party-of-the-traditional-working-class
+www.economist.com##.navigation__wrapper
+
+! 7/13/2018, 5:49:27 PM https://www.bt.no/btmeninger/kommentar/i/oRGqOa/Allemannsretten-for-fall
+www.bt.no##.ch-header-main
+
+dailymail.co.uk##script:inject(addEventListener-defuser.js, scroll, getVerticalOffset)
+
+! 7/14/2018, 6:52:55 PM http://www.nydailynews.com/opinion/ny-oped-dogs-humans-parasites-expensive-20180712-story.html
+www.nydailynews.com###app-bar
+
+! 7/14/2018, 6:53:03 PM http://www.nydailynews.com/opinion/ny-oped-dogs-humans-parasites-expensive-20180712-story.html
+www.nydailynews.com###app-bar-sticky
+
+! 7/14/2018, 6:53:10 PM http://www.nydailynews.com/opinion/ny-oped-dogs-humans-parasites-expensive-20180712-story.html
+www.nydailynews.com###right-rail
+
+! 7/15/2018, 6:02:39 PM https://www.aftenposten.no/
+www.aftenposten.no###world-cup-banner
+
+
+
+! 7/16/2018, 7:17:43 AM https://www.finn.no/
+www.finn.no##.modal--is-roomy.modal--is-max640.modal--is-active.modal.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 7/16/2018, 7:18:52 AM https://www.finn.no/
+www.finn.no###data-recommendations-stream
+
+! 7/16/2018, 7:19:21 AM https://www.finn.no/
+! www.finn.no##.u-r-size1of3.grid__unit
+
+! 7/16/2018, 7:19:31 AM https://www.finn.no/
+www.finn.no##.noprint.footer-footer-3962O
+
+! 7/16/2018, 7:19:49 AM https://www.finn.no/
+www.finn.no##a.top-bar-top-bar__menu-item-3kxIT:nth-of-type(2)
+
+! 7/16/2018, 7:29:20 AM https://www.nrk.no/
+www.nrk.no##.newsfeed__messages
+
+! 7/16/2018, 7:29:29 AM https://www.nrk.no/
+www.nrk.no##.lp_newsfeed.nrk-xs-100.newsfeed--initial.newsfeed
+
+! 7/16/2018, 7:29:45 AM https://www.nrk.no/
+www.nrk.no##[href="https://www.nrk.no/sport/"]
+
+! 7/16/2018, 7:29:56 AM https://www.nrk.no/
+www.nrk.no##.nrk-masthead__super
+
+! 7/16/2018, 7:30:09 AM https://www.nrk.no/
+www.nrk.no##.js-initialize.lp_globalfooter.nrk-bottommenu
+
+! 7/16/2018, 7:30:21 AM https://www.nrk.no/
+www.nrk.no##.nrk-bottommenu-footer
+
+! 7/16/2018, 7:31:53 AM https://www.nrk.no/hordaland/barnehagestyrer-sa-hun-mistenkte-vold-eller-overgrep-_-varslet-aldri-barnevernet-1.14119983
+www.nrk.no##.remoterenderedcontent-reference.sAUTO.fr.col.g100
+
+! 7/16/2018, 7:32:09 AM https://www.nrk.no/hordaland/barnehagestyrer-sa-hun-mistenkte-vold-eller-overgrep-_-varslet-aldri-barnevernet-1.14119983
+www.nrk.no##div.group-reference.sg12.sg9.sg6.s18.fc.col.g100:nth-of-type(5) > .container-widget.cf.rich.widget.group
+
+! 7/16/2018, 7:33:11 AM https://www.nrk.no/
+www.nrk.no###kur-room-id-193003
+
+! 7/16/2018, 7:33:43 AM https://www.nrk.no/
+www.nrk.no###kur-room-id-193018
+
+! 7/16/2018, 7:34:07 AM https://www.nrk.no/
+www.nrk.no##section.kur-floor--apartment.kur-floor--mix.kur-floor:nth-of-type(10)
+
+! 7/20/2018, 11:52:44 AM https://www.tu.no/artikler/loser-du-plevris-helgenott-vannlilje/442272
+www.tu.no###_1TgT6ZT2
+
+! 7/20/2018, 11:52:57 AM https://www.tu.no/artikler/loser-du-plevris-helgenott-vannlilje/442272
+www.tu.no##.clear.clearfix.tujobs-inline-ad.tujobs-carousel-ad.tujobs-ad.feed
+
+! 7/20/2018, 3:37:31 PM https://tv.nrk.no/serie/new-york-times-et-aar-med-trump/sesong/1/episode/1
+tv.nrk.no##.tv-series-recommendations
+
+! 7/20/2018, 3:37:55 PM https://tv.nrk.no/serie/new-york-times-et-aar-med-trump/sesong/1/episode/1
+  tv.nrk.no##.tv-series-hero-wrapper
+
+! 7/20/2018, 3:38:14 PM https://tv.nrk.no/serie/new-york-times-et-aar-med-trump/sesong/1/episode/1
+tv.nrk.no###footer
+
+! 7/23/2018, 11:07:07 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+||ljsp.lwcdn.com/api/video/embed.jsp?id=b88f0d76-287c-43f6-b2ff-447c0336a3a2$subdocument
+
+! 7/23/2018, 11:07:15 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+www.nettavisen.no###most-viewed-video > header > h1
+
+! 7/23/2018, 11:07:24 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+www.nettavisen.no###footer-copy
+
+! 7/23/2018, 11:07:30 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+! www.nettavisen.no###article-sidebar
+
+! 7/23/2018, 11:07:42 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+www.nettavisen.no###facebook-wrapper > p
+
+! 7/23/2018, 11:07:55 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+||www.nettavisen.no/templates/v1/images/na_artikkel_top_fb.png$image
+
+! 7/23/2018, 11:08:03 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+www.nettavisen.no##.clearfix.socialmedia-btns
+
+! 7/23/2018, 11:08:21 PM https://www.nettavisen.no/nyheter/innenriks/ludvig-%2818%29-omkom-i-trafikkulykken/3423517242.html
+!www.nettavisen.no##.lemonwhale-embed-container
+
+! 7/23/2018, 11:28:37 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no###top-navigation > .primary
+
+! 7/23/2018, 11:28:44 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no###top-navigation > .secondary
+
+! 7/23/2018, 11:28:56 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no##.row.main-footer
+
+! 7/23/2018, 11:29:06 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no##div.hide-for-print.row:nth-of-type(4) > .column.small-12
+
+! 7/23/2018, 11:30:32 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no##.medium-12.small-12.large-12.preview
+
+! 7/23/2018, 11:30:46 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no##article.right.medium-6.small-12.large-6.preview:nth-of-type(1)
+
+! 7/23/2018, 11:30:55 PM https://www.dagbladet.no/kultur/markedsokonomien-har-gitt-oss-de-losningene-og-den-velstandsveksten-vi-har-opplevd/70039485
+www.dagbladet.no##article.right.medium-6.small-12.large-6.preview:nth-of-type(2)
+
+! 7/24/2018, 2:05:00 PM http://rett24.no/articles/han-er-den-eneste-som-har-fatt-saken-sin-gjenopptatt-to-ganger
+rett24.no##.p_job-carousel.items-container.part_container
+
+! 8/3/2018, 8:43:01 AM https://www.nettavisen.no/meninger/gunnarstavrum/altfor-mange-gambler-med-hy-boliggjeld/3423520939.html
+www.nettavisen.no###blogger-twitter
+
+! 8/3/2018, 8:44:27 AM https://www.nettavisen.no/meninger/gunnarstavrum/altfor-mange-gambler-med-hy-boliggjeld/3423520939.html
+!www.nettavisen.no###published-wrap
+
+! 8/3/2018, 3:56:17 PM https://www.tv2.no/a/10001170
+www.tv2.no##.header-stripe
+
+! 8/3/2018, 3:56:24 PM https://www.tv2.no/a/10001170
+www.tv2.no###header
+
+! 8/3/2018, 3:56:41 PM https://www.tv2.no/a/10001170
+www.tv2.no##.nyheter.tv2-content.tv2-article > .path > ol
+
+! 8/3/2018, 3:56:55 PM https://www.tv2.no/a/10001170
+www.tv2.no###tv2-footer
+
+! 8/3/2018, 3:57:18 PM https://www.tv2.no/a/10001170
+www.tv2.no##div.large-12.row:nth-of-type(6)
+
+! 8/3/2018, 3:57:38 PM https://www.tv2.no/a/10001170
+www.tv2.no##.article-link-path.path
+
+! 8/3/2018, 3:57:55 PM https://www.tv2.no/a/10001170
+www.tv2.no##div.large-12.row:nth-of-type(5)
+
+! 8/3/2018, 3:58:28 PM https://www.tv2.no/a/10001170
+www.tv2.no##.tv2-abversion-.tv2-content.frontpage.section.article-subsection
+
+! 8/3/2018, 3:58:44 PM https://www.tv2.no/a/10001170
+www.tv2.no##.medium-12.small-12.large-12.bg-grey-dark.bodytext-row.row
+
+! 8/3/2018, 3:59:02 PM https://www.tv2.no/a/10001170
+www.tv2.no##.sticky.tv2-some
+
+! 8/3/2018, 4:01:25 PM https://www.tv2.no/a/10001537
+www.tv2.no##.medium-12.small-12.large-12.bg-black.bodytext-row.row
+
+! 8/3/2018, 4:01:40 PM https://www.tv2.no/a/10001537
+www.tv2.no##.sticky-lock.tv2-some
+
+! 8/3/2018, 4:03:06 PM https://www.tv2.no/a/10001463
+www.tv2.no##.floatLeft.medium-8.small-12.large-8.bg-grey-darker.bodytext-row.row
+
+! 8/3/2018, 4:24:13 PM https://www.tv2.no/a/10002001
+www.tv2.no##.medium-12.small-12.large-12.bg-blue.bodytext-row.row
+
+! 8/3/2018, 8:43:05 PM https://www.theguardian.com/sport/2018/aug/03/an-abrupt-firing-leaves-san-antonio-spurs-dance-team-hurt-and-suspicious
+www.theguardian.com###bannerandheader
+
+! 8/3/2018, 8:43:22 PM https://www.theguardian.com/sport/2018/aug/03/an-abrupt-firing-leaves-san-antonio-spurs-dance-team-hurt-and-suspicious
+www.theguardian.com##.js-secondary-column.content__secondary-column
+
+
+
+! 8/4/2018, 7:11:00 AM https://www.youtube.com/watch?v=6VBkrEN5mlM
+www.youtube.com##.ytp-endscreen-content
+
+! 8/4/2018, 7:18:18 AM https://www.youtube.com/watch?v=33eE0TqN1uk
+www.youtube.com###subscribe-button
+
+! 8/4/2018, 7:19:36 AM https://www.youtube.com/watch?v=33eE0TqN1uk
+www.youtube.com##ytd-button-renderer.size-default.style-default.ytd-menu-renderer.style-scope:nth-of-type(2)
+
+! 8/4/2018, 7:20:01 AM https://www.youtube.com/watch?v=33eE0TqN1uk
+www.youtube.com###button > .ytd-menu-renderer.style-scope
+
+
+
+i.ytimg.com/an_webp
+
+! 8/13/2018, 1:52:16 PM https://www.nettavisen.no/nyheter/innenriks/eldre-ektepar-slatt-med-ks-under-ran-i-sitt-eget-hjem/3423524794.html
+www.nettavisen.no###last-news
+
+! 8/13/2018, 1:52:30 PM https://www.nettavisen.no/nyheter/innenriks/eldre-ektepar-slatt-med-ks-under-ran-i-sitt-eget-hjem/3423524794.html
+!www.nettavisen.no###most-read
+
+! 8/18/2018, 10:42:07 PM https://www.bloomberg.com/view/articles/2018-01-03/welcome-to-2018-the-year-of-censored-social-media
+www.bloomberg.com##.current.transporter-item > .contributor > .content-well-v2 > .right-rail-v2.right-rail
+
+! 8/25/2018, 6:38:02 PM https://byggebolig.no/energiforbruk-enok/u-verdi-hysteri-lite-a-spare-pa-a-bytte-ut-vinduer
+||boligkanalen-maestro-new.azurewebsites.net/?h=1154&b=150&c=2&t=27134&fp=285885&lp=285954&occ=&m=False&pv=&tv=&pv=&_q=0558a90e-4bf1-47c8-bb0e-2bb938006d0b$subdocument
+
+! 8/27/2018, 8:35:45 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.right
+
+! 8/27/2018, 8:35:53 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.left
+
+! 8/27/2018, 8:36:06 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.horseshoe-wrapper
+
+! 8/27/2018, 8:36:14 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.top
+
+! 8/27/2018, 8:36:21 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.advert-visible.message.horseshoe.apnx-container
+
+! 8/27/2018, 8:36:29 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.user-header
+
+! 8/27/2018, 8:37:24 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.grid
+
+! 8/27/2018, 8:37:34 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.footer-preamble
+
+! 8/27/2018, 8:37:40 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.footer-items
+
+! 8/27/2018, 8:37:46 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.footer-links
+
+! 8/27/2018, 8:38:07 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.page-footer
+
+! 8/27/2018, 8:38:35 PM https://www.vgtv.no/video/100131/ubaydullah-hussain-om-norske-kvinner-de-undertrykker-seg-selv
+www.vgtv.no##.page-header
+
+
+
+! 8/28/2018, 2:38:53 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+||jobb.dagsavisen.no/?feed=carousel&location=&job_type=&keywords=&theme=fri_fagbevegelse$subdocument
+
+! 8/28/2018, 2:39:07 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+frifagbevegelse.no###i12566
+
+! 8/28/2018, 2:39:24 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(5)
+
+! 8/28/2018, 2:39:49 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(19)
+
+! 8/28/2018, 2:40:04 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(32)
+
+! 8/28/2018, 2:40:19 PM https://frifagbevegelse.no/nyheter/a-nei-ikke-praksis-i-nav-tenkte-monica-og-irmelin-na-stortrives-sosionomene-pa-jobb-6.158.575351.f4f00982f7
+frifagbevegelse.no###i12573
+
+! 8/28/2018, 2:40:58 PM https://frifagbevegelse.no/loaktuelt/na-kan-tyrkiske-myndigheter-avsette-dommere-militartjenestemenn-og-offentlig-ansatte-med-loven-i-hand-6.158.571929.de7a9a7c25
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(4)
+
+! 8/28/2018, 2:41:22 PM https://frifagbevegelse.no/loaktuelt/na-kan-tyrkiske-myndigheter-avsette-dommere-militartjenestemenn-og-offentlig-ansatte-med-loven-i-hand-6.158.571929.de7a9a7c25
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(9)
+
+! 8/28/2018, 2:41:29 PM https://frifagbevegelse.no/loaktuelt/na-kan-tyrkiske-myndigheter-avsette-dommere-militartjenestemenn-og-offentlig-ansatte-med-loven-i-hand-6.158.571929.de7a9a7c25
+frifagbevegelse.no###i13032_1 > p.tekst:nth-of-type(14)
+
+! 8/28/2018, 2:41:59 PM https://www.gjenstridig.no/hver-mann-sin-syndebukk/
+www.gjenstridig.no##.inner-header
+
+! 8/28/2018, 2:42:09 PM https://www.gjenstridig.no/hver-mann-sin-syndebukk/
+www.gjenstridig.no###navigation
+
+! 8/28/2018, 2:42:15 PM https://www.gjenstridig.no/hver-mann-sin-syndebukk/
+www.gjenstridig.no###navigation-sticky-wrapper
+
+! 8/28/2018, 2:42:26 PM https://www.gjenstridig.no/hver-mann-sin-syndebukk/
+www.gjenstridig.no##.single-breadcrumb.penci-breadcrumb.container
+
+! 8/28/2018, 2:42:44 PM https://www.gjenstridig.no/hver-mann-sin-syndebukk/
+www.gjenstridig.no###sidebar > .theiaStickySidebar
+
+! 8/28/2018, 3:36:08 PM https://www.nrk.no/ytring/menneskeverd-i-fare-1.14183857
+www.nrk.no###miDsgQr95UTOymVzwk0osmhw
+
+! 8/28/2018, 3:36:50 PM https://www.nrk.no/ytring/menneskeverd-i-fare-1.14183857
+www.nrk.no##.container-widget.cf.menu-bar.rich.widget.group
+
+! 8/28/2018, 5:03:56 PM https://www.frieord.no/debatt/frieord-ser-pa-venstrehatet-del-2-rasismen-mot-hvite/
+www.frieord.no###jeg_sidecontent
+
+! 8/28/2018, 11:39:19 PM https://askleo.com/how-do-i-encrypt-a-folder/
+askleo.com##.et_bloom_success_action.et_bloom_flyin_bottom_inline.et_flyin_1_field.et_bloom_animation_slideup.et_bloom_form_text_light.et_bloom_rounded.et_bloom_border_position_full.et_bloom_border_solid.et_bloom_with_border.et_bloom_form_bottom.et_bloom_form_container
+
+! 8/29/2018, 4:33:52 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.no-padding.col-md-12.col-lg-12
+
+! 8/29/2018, 4:34:01 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no###adwidth-form
+
+! 8/29/2018, 4:34:28 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.col-xs-12.col-sm-12.col-md-12
+
+! 8/29/2018, 4:34:36 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.col-md-12 > div.row:nth-of-type(1) > .red
+
+! 8/29/2018, 4:34:43 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.col-md-12 > .redrule.row > .red
+
+! 8/29/2018, 4:34:54 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.col-md-8 > div.redrule.row:nth-of-type(2)
+
+! 8/29/2018, 4:35:02 PM https://www.dagsavisen.no/nyemeninger/latter-og-terror-1.1193560
+www.dagsavisen.no##.articles.chosen-opinions.row > .row > .col-md-12 > div.row:nth-of-type(2)
+
+! 9/3/2018, 4:04:50 PM https://www.vredens-gnag.no/millioner-pa-flukt-fra-bompenger-i-stavanger-og-sandnes/
+www.vredens-gnag.no##.ab-appnexus-adverts-widget-4-appnexus.no-vg-wph-article_board_1.no-vg-wde-article_topboard.ab-appnexus-ads-wrapper.ab-responsive-ads-wrapper
+
+! 9/5/2018, 1:54:16 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.fakemaskcutoutbtm.gu7
+
+! 9/5/2018, 1:54:43 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.product_header_mask_btm
+
+! 9/5/2018, 1:55:57 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com###secondary_nav
+
+! 9/5/2018, 1:56:09 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com###primary_nav
+
+! 9/5/2018, 1:56:49 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.product_header_mask
+
+! 9/5/2018, 1:56:56 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.maskedleft
+
+! 9/5/2018, 1:57:37 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.maskedright
+
+! 9/5/2018, 1:58:11 PM http://www.metacritic.com/movie/the-desert-bride
+||www.metacritic.com/images/h5/bg/MovieHubReleases.png$image
+
+! 9/5/2018, 1:59:07 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm_half.oswald.header_title
+
+! 9/5/2018, 1:59:19 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.title_bump > div:nth-of-type(2)
+
+! 9/5/2018, 1:59:36 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm2.summary_left > .oswald.header_title
+
+! 9/5/2018, 1:59:45 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_top1.score_details
+
+! 9/5/2018, 1:59:53 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm2.summary_left > .see_all
+
+! 9/5/2018, 2:00:01 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm1.summary_right
+
+! 9/5/2018, 2:00:10 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm2.summary_left
+
+! 9/5/2018, 2:01:08 PM http://www.metacritic.com/movie/the-desert-bride
+www.metacritic.com##.pad_btm2.product_current_releases
+
+! 9/9/2018, 12:57:42 PM https://www.dagbladet.no/
+www.dagbladet.no##.animate.news-ticker-container
+
+! 9/12/2018, 12:51:48 AM https://itavisen.no/2018/09/11/derfor-onsker-det-amerikanske-forsvaret-a-drive-droner-med-lasere/
+itavisen.no###ad-skyskraper-right
+
+! 9/12/2018, 12:51:57 AM https://itavisen.no/2018/09/11/derfor-onsker-det-amerikanske-forsvaret-a-drive-droner-med-lasere/
+itavisen.no###ad-skyskraper-left
+
+! 9/17/2018, 7:42:13 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se###quicktabs-ticker_default
+
+! 9/17/2018, 7:42:45 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se##.section-default.pane-node-list-panel-pane-4.pane-views-panes.panel-pane > .pane-title
+
+! 9/17/2018, 7:43:02 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se##.jquery-once-3-processed.view-dom-id-71950186c91af0dfedb110c59080e08b.view-display-id-panel_pane_4.view-id-node_list.view-node-list.view > .view-content > .views-row-last.views-row-first.views-row-odd.views-row-1.views-row
+
+! 9/17/2018, 7:43:17 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se##.section-business.pane-node-list-panel-pane-3.pane-views-panes.panel-pane
+
+! 9/17/2018, 7:43:26 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se##.panel-col-350.panel-col.panel-panel > .inside
+
+! 9/17/2018, 7:43:34 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se##.panel-col-250.panel-col-last.panel-panel
+
+! 9/17/2018, 7:43:42 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se###navigation_second
+
+! 9/17/2018, 7:43:50 PM http://www.friatider.se/skrek-allahu-akbar-och-f-rs-kte-k-ra-ihj-l-m-nniskor-stoppades-och-misshandlades
+www.friatider.se###header
+
+
+! 9/19/2018, 12:42:07 AM https://www.youtube.com/results?search_query=Dalai+Lama&sp=EgIIAw%253D%253D
+www.youtube.com##.ytd-popup-container.style-scope.dropdown-content
+
+! 9/19/2018, 2:40:49 PM https://www.tu.no/artikler/kineserne-tar-ekornes-av-bors/446512
+www.tu.no##[src="blob:https://www.tu.no/7ac6e616-e5f4-451c-a6a0-410165ef74ec"]
+
+! 9/19/2018, 2:40:58 PM https://www.tu.no/artikler/kineserne-tar-ekornes-av-bors/446512
+www.tu.no##.sticky-col-left > .stick.sticky-content > .poster-180x500.poster-placeholder
+
+! 9/19/2018, 5:56:47 PM https://www.tu.no/artikler/hva-slags-energikilder-skal-holde-liv-i-svalbard/446535
+www.tu.no##.sticky-col-left
+
+! 9/21/2018, 11:41:38 PM https://www.dagbladet.no/
+www.dagbladet.no##.right-lane.show-for-medium-up.columns.medium-4
+
+! 9/22/2018, 2:47:08 AM https://www.aftenposten.no/
+www.aftenposten.no##.snoam__py-2.snoam__m-2.snoam__items-center.snoam__jusitfy-center.snoam__flex-col.md__snoam__justify-center.md__snoam__flex-row.snoam__text-base.snoam__font-sans.snoam__flex
+
+! 9/25/2018, 9:10:45 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+||pbx.images.nettavisen.no/?url=&w=150&h=84&mode=crop&pos=center$image
+
+! 9/25/2018, 9:10:54 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+m.nettavisen.no###sidebar_article_annonse > .aspect-ratio-wrap
+
+! 9/25/2018, 9:11:12 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+||m.nettavisen.no/templates/v2/images/na24/shoppingcart.png$image
+
+! 9/25/2018, 9:11:20 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+m.nettavisen.no##.origin2.art_origin
+
+! 9/25/2018, 9:11:31 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+m.nettavisen.no###sidebar_article_annonse
+
+! 9/25/2018, 9:11:42 AM https://m.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+m.nettavisen.no###main-header
+
+! 9/25/2018, 9:14:06 AM https://www.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+||www.nettavisen.no/templates/v2/images/na24/header_backgr.jpg$image
+
+! 9/25/2018, 9:14:14 AM https://www.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+www.nettavisen.no###main-header
+
+! 9/25/2018, 9:14:22 AM https://www.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+www.nettavisen.no###brand-menu > .clearfix
+
+! 9/25/2018, 9:15:26 AM https://www.nettavisen.no/na24/en-halv-million-mennesker-er-borte-fra-karl-johan/3423538897.html
+www.nettavisen.no###brand-menu
+
+! 9/25/2018, 4:15:43 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk###masthead
+
+! 9/25/2018, 4:15:59 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk##.hero-aside-video > .box-title
+
+! 9/25/2018, 4:16:39 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk##.follow-bar
+
+! 9/25/2018, 4:16:45 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk##.share-wrapper-like.share-bar-wrapper > .share-bar
+
+! 9/25/2018, 4:17:04 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk##.hero-aside-video
+
+! 9/25/2018, 4:23:59 PM https://www.independent.co.uk/news/science/paralysed-man-walks-mind-controlled-implat-spinal-cord-surgery-us-minnesota-snowmobile-accident-a8552726.html
+www.independent.co.uk##.sidebar
+
+! 9/28/2018, 11:51:23 PM https://www.tv2.no/
+www.tv2.no###tv2_10110512
+
+
+
+###hover-overlays
+
+! 9/30/2018, 1:39:58 PM https://www.youtube.com/results?sp=CAM%253D&search_query=islam
+www.youtube.com###play
+
+
+! 10/1/2018, 11:56:47 AM https://www.liveleak.com/view?t=Cwg53_1536089030
+www.liveleak.com##.content_main_right_outer.pad_none.col-xs-12.col-md-4.col-sm-6
+
+! 10/1/2018, 11:57:32 AM https://www.liveleak.com/view?t=Cwg53_1536089030
+www.liveleak.com##.nav_main_outer
+
+! 10/1/2018, 11:57:59 AM https://www.liveleak.com/view?t=Cwg53_1536089030
+www.liveleak.com##.navbar-fixed-top
+
+! 10/2/2018, 11:53:47 AM https://www.tu.no/artikler/her-er-kia-en-over-5000-nordmenn-venter-pa/447645
+www.tu.no###header
+
+! 10/2/2018, 11:54:00 AM https://www.tu.no/artikler/her-er-kia-en-over-5000-nordmenn-venter-pa/447645
+www.tu.no##.relative.top-nav
+
+! 10/2/2018, 11:54:47 AM https://www.tu.no/artikler/her-er-kia-en-over-5000-nordmenn-venter-pa/447645
+www.tu.no##.one-third.column
+
+! 10/2/2018, 11:55:03 AM https://www.tu.no/artikler/her-er-kia-en-over-5000-nordmenn-venter-pa/447645
+www.tu.no##.frontpage-grid.frontpage-feed-grid
+
+! 10/3/2018, 12:40:23 AM https://itavisen.no/2018/10/02/vi-besokte-den-storste-teknologi-konferansen-i-norge-dette-opplevde-vi/
+itavisen.no##alert-message
+
+! 10/3/2018, 12:40:31 AM https://itavisen.no/2018/10/02/vi-besokte-den-storste-teknologi-konferansen-i-norge-dette-opplevde-vi/
+itavisen.no##cloudflare-app
+
+! 10/3/2018, 9:00:50 AM https://www.digi.no/artikler/microsoft-lanserte-sitt-kraftigste-nettbrett-noensinne-og-ny-baerbar-pc/447697
+www.digi.no##.relative.top-nav
+
+! 10/5/2018, 11:18:40 AM https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies
+www.bloomberg.com###paywall-banner
+
+! 10/6/2018, 11:52:31 AM https://www.komplett.no/product/825480/hjem-fritid/jernvare/verktoey/maaleverktoey-og-sensorer/vaerstasjoner/netatmo-urban-weather-station#
+||www.komplett.no/marketingmedia/31096/kno_custserv_q417_stickybox_v3b.png$image
+
+! 10/7/2018, 1:18:34 PM https://southfront.org/salisbury-nerve-agent-attack-reveals-70-million-pentagon-program-porton/
+southfront.org##.js-hook-content.no-widget.widget
+
+! 10/10/2018, 4:24:03 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no##._3qGhn._3t8Vk
+
+! 10/10/2018, 4:24:12 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_9
+
+! 10/10/2018, 4:24:20 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_1
+
+! 10/10/2018, 4:24:44 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_2
+
+! 10/10/2018, 4:24:52 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no##._2iT34
+
+! 10/10/2018, 4:24:58 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no##._3hvpi
+
+! 10/10/2018, 4:25:12 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_4
+
+! 10/10/2018, 4:25:23 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_5
+
+! 10/10/2018, 4:25:35 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_6
+
+
+
+! 10/10/2018, 4:25:44 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no###adPlacement_7
+www.vg.no###adPlacement_8
+www.vg.no###adPlacement_9
+www.vg.no###adPlacement_10
+www.vg.no###adPlacement_11
+www.vg.no###adPlacement_12
+www.vg.no###adPlacement_13
+
+! 10/10/2018, 4:27:50 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##a._MR-Y._3v6UN.g6QTt:nth-of-type(1)
+
+! 10/10/2018, 4:28:07 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##a._MR-Y._3v6UN.g6QTt:nth-of-type(2)
+
+! 10/10/2018, 4:28:14 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##a._MR-Y._3v6UN.g6QTt:nth-of-type(3)
+
+! 10/10/2018, 4:28:25 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##div._2DDFH._1ake_:nth-of-type(7)
+
+! 10/10/2018, 4:28:39 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##div._2DDFH._1ake_:nth-of-type(8)
+
+! 10/10/2018, 4:28:45 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##._3g0T4.qYO6c
+
+! 10/10/2018, 4:28:55 PM https://www.vg.no/nyheter/meninger/i/oRblrW/like-muligheter-ikke-likhet
+www.vg.no##._1Dyvs
+
+! 10/10/2018, 4:29:29 PM https://www.vg.no/nyheter/meninger/i/yv219K/hva-vil-den-irriterte-professoren
+www.vg.no##div._2DDFH._1ake_:nth-of-type(9)
+
+! 10/14/2018, 11:26:45 AM https://www.howtogeek.com/300743/how-to-add-imdb-or-rotten-tomatoes-ratings-to-your-plex-media-server/
+www.howtogeek.com##.overlay-inner
+
+! 10/15/2018, 12:45:04 PM https://www.dn.no/eiendom/oslo-sv/boligmarkedet/sekundarbolig/vil-sla-hardere-ned-pa-boligspekulanter/2-1-439920
+www.dn.no##.header-bar--not-at-bottom.header-bar--at-top.js-header-bar-sticky.js-header-bar.header-bar--sticky.header-bar
+
+! 10/15/2018, 12:45:10 PM https://www.dn.no/eiendom/oslo-sv/boligmarkedet/sekundarbolig/vil-sla-hardere-ned-pa-boligspekulanter/2-1-439920
+www.dn.no##.js-investor-bar.investor-bar
+
+! 10/15/2018, 12:45:16 PM https://www.dn.no/eiendom/oslo-sv/boligmarkedet/sekundarbolig/vil-sla-hardere-ned-pa-boligspekulanter/2-1-439920
+www.dn.no###googlead-toppbanner
+
+! 10/15/2018, 12:45:32 PM https://www.dn.no/eiendom/oslo-sv/boligmarkedet/sekundarbolig/vil-sla-hardere-ned-pa-boligspekulanter/2-1-439920
+www.dn.no##.dnno-padding--horizontal.tags-group
+
+! 10/28/2018, 12:28:23 AM https://www.aftenposten.no/
+www.aftenposten.no##.snoam__stripe__py-2.snoam__stripe__m-2.snoam__stripe__items-center.snoam__stripe__jusitfy-center.snoam__stripe__flex-col.md__snoam__stripe__justify-center.md__snoam__stripe__flex-row.snoam__stripe__text-base.snoam__stripe__font-sans.md__snoam__stripe__flex
+
+! 11/4/2018, 1:23:05 PM https://www.metacritic.com/feature/hulu-best-new-movies-and-shows
+www.metacritic.com###hover_div
+
+
+! 11/20/2018, 5:45:50 PM https://www.youtube.com/watch?v=CLXuYzL27vo
+||www.youtube.com/live_chat$subdocument
+
+! 11/20/2018, 5:46:04 PM https://www.youtube.com/watch?v=CLXuYzL27vo
+www.youtube.com###chat
+
+liveleak.com##script:inject(set-constant.js, update_latest_playing_player_wrapper_element, noopFunc)
+
+dailymail.co.uk##.vjs-flyout-on + .vjs-flyout-wrapper-fixed:style(position: relative !important;)
+dailymail.co.uk##.vjs-flyout-on.vjs-flyout-side + .vjs-flyout-wrapper-fixed:style(bottom: 430px !important;)
+dailymail.co.uk##.vjs-flyout-on.vjs-flyout-side + .vjs-flyout-wrapper-fixed .vjs-fixed:style(width: 100% !important;)
+dailymail.co.uk##.vjs-flyout-control > .vjs-flyout-button.vjs-flyout-close, .vjs-flyout-control > .vjs-flyout-button.vjs-flyout-expand
+dailymail.co.uk##.vjs-flyout-on.vjs-flyout-side + .vjs-flyout-wrapper-fixed .vjs-flyout-wrapper-absolute > *:style(right: 0 !important;)
+dailymail.co.uk##.vjs-flyout-on.vjs-flyout-side + .vjs-flyout-wrapper-fixed .vjs-flyout-wrapper-absolute .vjs-title:style(display: block !important;)
+
+||players.brightcove.net/*/index.min.js$script,domain=forbes.com
+forbes.com##.playable-rectangle
+
+! 12/27/2018, 1:56:16 AM https://www.aftenposten.no/
+www.aftenposten.no##.stripe-snoam__py-4.stripe-snoam__text-normal.stripe-md__snoam__text-xl.stripe-snoam__font-sans.stripe-snoam__items-center.stripe-snoam__justify-center.stripe-md__snoam__flex-row.stripe-snoam__flex-col.stripe-snoam__flex
+
+! 12/28/2018, 2:00:02 AM https://twitter.com/dfr67000/lists/crypto
+twitter.com##.eu-cookie-notice.Banner--aboveNav.Banner
+
+! 12/28/2018, 2:26:09 PM https://www.tv2.no/a/10286008
+www.tv2.no###tv2-cookie-alert
+
+! 12/28/2018, 3:13:43 PM https://resett.no/2018/12/28/ytringsfrihetsforbundet-er-et-flott-initiativ-og-et-helt-nodvendig-fellesskap/
+resett.no###cookie
+
+! 12/28/2018, 9:30:20 PM https://www.dagbladet.no/nyheter/27-aringen-fikk-nadelose-meldinger-for-drapet-ikke-feig-ut-halvveis-fullfor-jobben/70606941
+www.dagbladet.no##.as-oil-l-wrapper-layout-max-width
+
+! 12/28/2018, 9:30:33 PM https://www.dagbladet.no/nyheter/27-aringen-fikk-nadelose-meldinger-for-drapet-ikke-feig-ut-halvveis-fullfor-jobben/70606941
+www.dagbladet.no##.as-oil-content-overlay
+
+! 12/28/2018, 10:39:50 PM https://www.liveleak.com/view?t=eGWd_1546017214
+www.liveleak.com##.cc-color-override--1254661338.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+
+! 12/29/2018, 3:58:44 PM https://www.google.com/search?q=bandersnatch%20narrator%20voice&pws=0&gl=us&gws_rd=cr
+www.google.com##.gb_g.gb_ed.gb_cd.gb_dd
+
+! 12/29/2018, 7:07:35 PM https://www.dn.no/medier/lars-akerhaug-blir-redaksjonssjef-i-resett/2-1-509143
+www.dn.no###cookieInfo
+
+! 12/29/2018, 7:20:47 PM https://www.ellos.no/singer/symaskin-promise-1409n/1002657?utm_source=affiliates&utm_campaign=33153&utm_medium=CPO&extcmp=04_NO_zanox_affiliate_33153&awc=8824_1546107632_1bdf64c56e6c91b1c00bc133f3d7a22e
+www.ellos.no###cookieAlert
+
+! 12/29/2018, 7:53:29 PM https://www.dailymail.co.uk/news/article-6534957/Children-parents-scream-terror-fireworks-display-goes-badly-wrong-nursery.html
+www.dailymail.co.uk##.mol-ads-cmp--banner
+
+! 12/29/2018, 7:57:13 PM https://www.dagsavisen.no/rogalandsavis/go-ahead-gransk-1.1252972?fbclid=IwAR1D-YPtCOsqnksz3pRJ-uAVUVCYkyVrwq0Whs6RolqAsUeGFgtTZnMTxFI
+www.dagsavisen.no##.cookie-acceptance
+
+! 12/29/2018, 8:57:29 PM https://streamable.com/f3dh3
+streamable.com##.app_gdpr--2k2uB
+
+! 12/31/2018, 7:00:25 PM https://www.vg.no/nyheter/utenriks/i/0E6PvG/elizabeth-warren-vil-bli-president
+www.vg.no###adPlacement_3
+
+! 12/31/2018, 7:12:29 PM https://e24.no/boers-og-finans/bjoern-kjos/kryptokrakket-skremmer-ikke-kjos-glad-vi-ikke-lanserte-kryptoboersen-paa-toppen/24520364
+e24.no###ad-topboard
+
+! 1/2/2019, 4:57:53 AM https://siste.eiendomspriser.no/?query=%C3%85sengata%206,%20Oslo
+||siste.eiendomspriser.no/Content/Images/ill-flood.jpg$image
+
+! 1/2/2019, 4:58:05 AM https://siste.eiendomspriser.no/?query=%C3%85sengata%206,%20Oslo
+siste.eiendomspriser.no###modalNewPromo > .modal-dialog > .modal-content > .modal-body
+
+! 1/2/2019, 4:58:18 AM https://siste.eiendomspriser.no/?query=%C3%85sengata%206,%20Oslo
+siste.eiendomspriser.no###modalNewPromo > .modal-dialog > .modal-content > .modal-header
+
+! 1/2/2019, 4:58:39 AM https://siste.eiendomspriser.no/?query=%C3%85sengata%206,%20Oslo
+siste.eiendomspriser.no###modalStart
+
+! 1/2/2019, 4:58:48 AM https://siste.eiendomspriser.no/?query=%C3%85sengata%206,%20Oslo
+siste.eiendomspriser.no##.in.fade.modal-backdrop
+
+! 1/8/2019, 8:44:47 PM https://e24.no/kommentarer/e24-redaktoer-gard-l-michalsen-hvilket-fylke-eksporterer-mest-varer-og-tjenester-svar-oslo/24536177
+e24.no##.ad-text
+
+! 1/9/2019, 7:54:13 AM https://www.reddit.com/r/confessions/comments/adugex/i_think_i_pretty_much_hate_conservatives_now/
+www.reddit.com##.premium-banner
+
+! 1/9/2019, 4:05:43 PM https://flickmetrix.com/
+flickmetrix.com##.ng-scope.container
+
+! 1/12/2019, 1:21:52 PM https://www.cnet.com/news/the-3d-printed-gun-controversy-everything-you-need-to-know/
+www.cnet.com###-e_pgtozy_mlyypc
+
+! 1/12/2019, 2:27:42 PM https://www.news.com.au/travel/australian-holidays/food-wine/vegans-blow-up-over-cafes-refusal-to-serve-highlyprocessed-soy-milk/news-story/af7ff271efb80a6ee8b549849f3d60c3
+www.news.com.au##nav
+
+! 1/12/2019, 2:27:53 PM https://www.news.com.au/travel/australian-holidays/food-wine/vegans-blow-up-over-cafes-refusal-to-serve-highlyprocessed-soy-milk/news-story/af7ff271efb80a6ee8b549849f3d60c3
+www.news.com.au##.child-stick.primary-video.active.media.video
+
+! 1/12/2019, 2:28:00 PM https://www.news.com.au/travel/australian-holidays/food-wine/vegans-blow-up-over-cafes-refusal-to-serve-highlyprocessed-soy-milk/news-story/af7ff271efb80a6ee8b549849f3d60c3
+www.news.com.au###header
+
+! 1/12/2019, 2:28:05 PM https://www.news.com.au/travel/australian-holidays/food-wine/vegans-blow-up-over-cafes-refusal-to-serve-highlyprocessed-soy-milk/news-story/af7ff271efb80a6ee8b549849f3d60c3
+www.news.com.au##.tabbed
+
+cnn.com###large-media
+
+||registry.api.cnn.io/assets/fave/theoplayer$domain=cnn.com
+
+! 1/16/2019, 1:50:23 PM https://www.youtube.com/?hl=no&gl=NO
+!www.youtube.com###contentContainer
+
+! 1/16/2019, 1:50:39 PM https://www.youtube.com/?hl=no&gl=NO
+!www.youtube.com###scrim
+
+! 1/16/2019, 1:50:48 PM https://www.youtube.com/?hl=no&gl=NO
+!www.youtube.com###guide
+
+!<div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+!<div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+
+www.youtube.com###mouseover-overlay
+www.youtube.com###hover-overlays
+
+
+! 1/17/2019, 8:33:26 AM https://www.digi.no/artikler/noen-som-kjenner-seg-igjen-offentlig-dokument-i-usa-slakter-agile-bullshit/455680
+www.digi.no##.poster-300x250.poster-placeholder > [href^="/"] > [src^="blob:https://www.digi.no/"]
+
+! 1/17/2019, 8:33:33 AM https://www.digi.no/artikler/noen-som-kjenner-seg-igjen-offentlig-dokument-i-usa-slakter-agile-bullshit/455680
+www.digi.no##.poster-300x250.poster-placeholder
+
+! 1/19/2019, 7:06:26 AM https://www.nettavisen.no/nyheter/dette-er-den-nye-norske-innvandringspolitikken/3423581853.html
+www.nettavisen.no###cta-content
+
+! 1/24/2019, 5:49:00 PM https://truthout.org/articles/millions-of-americans-flood-into-mexico-for-health-care/
+truthout.org###hellobar
+
+! 1/27/2019 https://resett.no
+resett.no##.heateor_sss_sharing_title
+resett.no##li.heateorSssSharingRound:nth-of-type(1) > .heateorSssFacebookBackground.heateorSssSharing > .heateor_sss_facebook_count.heateor_sss_square_count
+
+! 1/27/2019 https://xstra.no
+xstra.no##.heateor_sss_sharing_title
+xstra.no##li.heateorSssSharingRound:nth-of-type(1) > .heateorSssFacebookBackground.heateorSssSharing > .heateor_sss_facebook_count.heateor_sss_square_count
+
+! 1/28/2019 https://www.finn.no
+www.finn.no##div.adsbox.external-banner-board.flex.unit:nth-of-type(7)
+www.finn.no##div.adsbox.external-banner-board.flex.unit:nth-of-type(17)
+www.finn.no##div.adsbox.external-banner-board.flex.unit:nth-of-type(27)
+
+! 1/28/2019 https://www.dagbladet.no
+www.dagbladet.no###ad-topbanner1
+www.dagbladet.no###ad-netboard1
+www.dagbladet.no###ad-sticky-right1
+www.dagbladet.no##.small-6.medium-4.large-4.columns > .row > div.columns.small-12.medium-12.large-12:nth-of-type(1)
+www.dagbladet.no###ad-medium-rectangle-con1
+www.dagbladet.no###ad-netboardB1
+
+! 1/28/2019 https://www.minervanett.no
+www.minervanett.no##.adsbygoogle
+www.minervanett.no##.ad-inline.ad-size-580.ad-desktop
+
+! 1/28/2019 https://resett.no
+resett.no##.td-scroll-up-visible.td-scroll-up
+
+! 1/31/2019 https://www.aftenposten.no
+www.aftenposten.no###topboard
+www.aftenposten.no###netboard_1
+www.aftenposten.no###netboard_2
+
+! 2/5/2019 https://www.mirror.co.uk
+www.mirror.co.uk##.pwa-modal-prompt
+
+! 2/5/2019 https://www.youtube.com
+www.youtube.com###masthead-ad
+
+! 2/5/2019 https://xstra.no
+xstra.no##.td-scroll-up-visible.td-scroll-up
+
+! 2/7/2019 https://www.abcactionnews.com
+www.abcactionnews.com###scroll-follow
+
+! 2/7/2019 https://www.aftenposten.no
+www.aftenposten.no##div.content-container:nth-of-type(2)
+
+! 2/7/2019 https://www.nettavisen.no
+www.nettavisen.no###toppbanner-1
+www.nettavisen.no###netboard-1
+www.nettavisen.no###nav-wrap
+www.nettavisen.no###na-header
+www.nettavisen.no##.clearfix.assorted-articles-wrap
+www.nettavisen.no###footer
+www.nettavisen.no###debatt
+
+! 2/7/2019 https://www.rssnyheter.no
+www.rssnyheter.no###topbar
+www.rssnyheter.no##.topbar_wrap
+www.rssnyheter.no##.front_fb_share
+
+! 2/7/2019 https://www.independent.co.uk
+www.independent.co.uk##.hero-wrapper
+www.independent.co.uk##.body-content > .video
+www.independent.co.uk##.tags
+www.independent.co.uk###newsletter-component
+www.independent.co.uk##.comments-header
+www.independent.co.uk##.syndication-link
+www.independent.co.uk##.breadcrumb
+
+! 2/7/2019 https://www.rssnyheter.no
+www.rssnyheter.no##.bb1.adsbygoogle
+www.rssnyheter.no##div.ad_body_box:nth-of-type(2)
+www.rssnyheter.no##div.ad_body_box:nth-of-type(4)
+
+! 2/7/2019 https://www.abcnyheter.no
+www.abcnyheter.no##.is-loaded.u-desktop-only.c-ad--banner980x300.c-ad
+www.abcnyheter.no##.o-grid__col--nowrap.o-grid__col.c-article__byline-social > .c-btn-socialmedia__mail.c-btn-socialmedia
+www.abcnyheter.no##.o-grid__col--nowrap.o-grid__col.c-article__byline-social > .js-popup.c-btn-socialmedia__twitter.c-btn-socialmedia
+www.abcnyheter.no###facebook-button-byline-top
+www.abcnyheter.no##.o-grid__col--nowrap.o-grid__col.c-article__byline-social
+www.abcnyheter.no##.o-grid--nowrap.o-grid.u-x1of1.c-article__byline-social.c-article__byline-bottom
+www.abcnyheter.no##.is-loaded.c-article__ad-padding.c-ad--banner980x311.u-desktop-only.c-ad
+www.abcnyheter.no##section.u-x1of1
+www.abcnyheter.no##.o-layout__module--footer.o-layout__module
+
+! 2/7/2019 https://www.rssnyheter.no
+www.rssnyheter.no##div.ad_body_box:nth-of-type(6)
+
+! 2/8/2019 https://www.tv2.no
+www.tv2.no###-auto-gen-id-8
+www.tv2.no##.fullbleed.large-12.row
+
+! 2/9/2019 https://www.dagbladet.no
+
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(1)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(2)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(3)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(4)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(5)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(6)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(7)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(8)
+www.dagbladet.no##.lp_belowArticle > div.row:nth-of-type(9)
+www.dagbladet.no###ad-medium-rectangle-con2
+www.dagbladet.no###ad-medium-rectangleB2
+www.dagbladet.no###ad-medium-rectangleB1
+www.dagbladet.no###ad-medium-rectangle1
+www.dagbladet.no###ad-medium-rectangle2
+www.dagbladet.no##.full-width.horizontal-scroller
+www.dagbladet.no###ad-fullscreen1
+www.dagbladet.no###ad-netboard2
+www.dagbladet.no###ad-medium-rectangle1v
+www.dagbladet.no###ad-fullscreen2
+www.dagbladet.no###ad-sticky-right2
+www.dagbladet.no###ad-netboard3
+www.dagbladet.no###ad-netboard4
+www.dagbladet.no###ad-netboard5
+www.dagbladet.no###ad-medium-rectangle2v
+www.dagbladet.no###ad-netboard6
+www.dagbladet.no###ad-medium-rectangle3v
+www.dagbladet.no###ad-medium-rectangle4v
+www.dagbladet.no###ad-medium-rectangle5v
+www.dagbladet.no###ad-medium-rectangle6v
+
+! 2/9/2019 https://resett.no
+resett.no##.td_stretch_container.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
+resett.no##.td-header-gradient.td-header-menu-wrap
+resett.no##.td-crumb-container
+resett.no##.td-container > div.td-pb-row:nth-of-type(2)
+resett.no##.td_stretch_container.td-footer-template-9.td-container-wrap.td-footer-wrapper
+resett.no###stottossartikkel
+resett.no###z-comment-policy
+
+! 2/9/2019 https://www.inoreader.com
+www.inoreader.com###below_tree
+!www.inoreader.com###subscriptions_nav
+!www.inoreader.com##.subscriptions_legend
+!www.inoreader.com##.sf_refresh.icon-loop.pointer_icon.icon16
+
+! 2/9/2019 https://www.rssnyheter.no
+www.rssnyheter.no##.hmo.ad_all_top_pan
+
+! 2/9/2019 https://e24.no
+||www.finn.no/distribution-carousel?channel=e24&position=article&carouselid=e24&direction=vertical$subdocument
+
+! 2/9/2019 https://www.aftenposten.no
+www.aftenposten.no##.mm-spelt
+www.aftenposten.no###stripe-wrapper
+www.aftenposten.no###contentboard
+www.aftenposten.no##.infeedwidget-section.tp__snoam__bg-grey-light
+www.aftenposten.no###brandboard
+www.aftenposten.no###widget-26213668858286887
+www.aftenposten.no##.jobb.ad
+
+! 2/11/2019 https://www.tu.no
+www.tu.no##.relative.event-promo-box
+
+! 2/11/2019 https://www.vg.no
+www.vg.no##._3qGhn.DYRCY
+
+! 2/11/2019 https://www.klassekampen.no
+www.klassekampen.no###mast-head
+www.klassekampen.no###right-rail
+
+! 2/11/2019 https://forskning.no
+forskning.no###nav
+forskning.no##.meta > .social
+forskning.no##.large-abs-4.pullOut.floatRight.small-12.large-4.column
+forskning.no##.floatLeft.small-12.large-8.row.btxt_row.columns
+forskning.no##.social.column
+forskning.no##.related > .large-12.row
+forskning.no##footer
+forskning.no##.tags
+
+! 2/11/2019 https://www.tu.no
+www.tu.no##.big-preamble.access-public.commercial.odd.single-headline.inline-preamble-link.preamble
+www.tu.no##.flex.clearfix.no-list-style
+www.tu.no##.clear.clearfix.tujobs-featured-ad.tujobs-carousel-ad.tujobs-ad.feed
+www.tu.no##.all-jobs-link
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(1)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(2)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(3)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(4)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(5)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(6)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(7)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(8)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(9)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(10)
+www.tu.no##div.f-right.related-article-placeholder.related-article:nth-of-type(11)
+www.tu.no##.lp_article_content.main-article-content-wrapper > .break-mobile.flex-row
+www.tu.no##.clear.clearfix.tujobs-featured-ad.tujobs-text-ad.tujobs-ad.feed
+www.tu.no##footer
+www.tu.no###header-surround
+www.tu.no##.main-media-text
+
+! 2/11/2019 https://e24.no
+e24.no###e24footer
+
+! 2/11/2019 https://www.digi.no
+www.digi.no##.flex.clearfix.no-list-style
+www.digi.no##.acm.flex-wrap.flex.left.sticky-social-share
+www.digi.no##.hide-on-mobile.line-top.clearfix.flex.col-full-width
+www.digi.no##.frontpage-feed.clearfix.flex.line-top.col-full-width
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(1)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(2)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(3)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(4)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(5)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(6)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(7)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(8)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(9)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(10)
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(11)
+
+www.digi.no##div.frontpage-feed.clearfix.flex.col-full-width:nth-of-type(3)
+www.digi.no###newsletter-signup
+www.digi.no###footer-container
+
+! 2/11/2019 https://e24.no
+!e24.no##p:nth-of-type(1)
+!e24.no##p:nth-of-type(2)
+!e24.no##p:nth-of-type(3)
+!e24.no##p:nth-of-type(4)
+!e24.no##p:nth-of-type(5)
+!e24.no##p:nth-of-type(6)
+!e24.no##p:nth-of-type(7)
+!e24.no##p:nth-of-type(8)
+!e24.no##p:nth-of-type(9)
+!e24.no##p:nth-of-type(10)
+!e24.no##p:nth-of-type(11)
+!e24.no##p:nth-of-type(12)
+!e24.no##p:nth-of-type(13)
+!e24.no###dp-plugin-element-related-25771549895020239
+!e24.no###dp-plugin-element-related-16371549895031977
+!e24.no##h6:nth-of-type(1)
+!e24.no##h6:nth-of-type(2)
+!e24.no##h6:nth-of-type(3)
+!e24.no##h6:nth-of-type(4)
+!e24.no##h6:nth-of-type(5)
+!e24.no##h6:nth-of-type(6)
+!e24.no##h6:nth-of-type(7)
+!e24.no##h6:nth-of-type(8)
+!e24.no##h6:nth-of-type(9)
+!e24.no##h6:nth-of-type(10)
+!e24.no##h6:nth-of-type(11)
+!e24.no##h6:nth-of-type(12)
+!e24.no###dp-plugin-element-related-4231549895047164
+!e24.no###dp-plugin-element-related-39581549895052233
+!e24.no##.row.e24-iframe-wrapper
+!||www.finn.no/distribution-front/external/carousel?channel=e24&pos=blinkAdArticleDesktop&rec=false&limit=15&distribution=REALESTATE&requireImage=false&userCId=e24-z2az4v0x6jp-1549914178472$subdocument
+!e24.no###blinkAdArticle
+
+! 2/12/2019 https://www.finn.no
+www.finn.no##div.ads__unit:nth-of-type(1)
+
+! 2/13/2019 https://9gag.com
+9gag.com###sidebar
+9gag.com###top-nav
+9gag.com##.stealthy-scroll-container
+9gag.com##.in-post-top.post-afterbar-a
+9gag.com##.fixed-wrap-post-bar
+9gag.com##.post-section
+9gag.com##.post-meta
+9gag.com##p > [href="javascript: void(0);"]
+9gag.com##.first.comment-box
+9gag.com##.clearfix.tab-bar
+
+! 2/13/2019 https://xstra.no
+xstra.no##.td-ss-main-sidebar
+xstra.no##.td-header-menu-wrap
+xstra.no##.td-container-wrap.td-header-menu-wrap-full
+xstra.no##.td-crumb-container
+xstra.no##.td-footer-template-3.td-container-wrap.td-footer-wrapper
+xstra.no##.td-ss-main-content > footer
+
+! 2/14/2019 https://www.dailymail.co.uk
+www.dailymail.co.uk##.vjs-default-skin.video-js
+www.dailymail.co.uk##.mol-video.moduleFull
+
+! 2/14/2019 https://marvelcinematicuniverse.fandom.com
+||vignette.wikia.nocookie.net/$image
+
+! 2/15/2019 https://vivaldi.com
+vivaldi.com###cookiemsg
+
+! 2/15/2019 https://www.economist.com
+www.economist.com##.latest-updates-panel__container--blog-post.latest-updates-panel__container
+
+! 2/16/2019 https://rssnyheter.sveip.no
+rssnyheter.sveip.no##.hmo.ad_all_top_pan
+rssnyheter.sveip.no###topbar
+rssnyheter.sveip.no##.topbar_wrap
+rssnyheter.sveip.no##div.ad_body_box:nth-of-type(2)
+rssnyheter.sveip.no##div.ad_body_box:nth-of-type(4)
+rssnyheter.sveip.no##div.ad_body_box:nth-of-type(6)
+
+! 2/18/2019 imdb.com
+@@||www.imdb.com/tr/?pt=video&ht=actionOnly&pageAction=video-view-t0&ref_=video_view_t0&const=vi4274502169$other,domain=www.imdb.com
+@@||www.imdb.com/tr/?ref_=vi_nxt_ap&const=vi4274502169&pt=video&spt=single&tabId=&ht=pageHit&rrid=null&refUrl=https%3A%2F%2Fwww.imdb.com%2F$xmlhttprequest,domain=www.imdb.com
+
+! 2/22/2019 https://www.vg.no
+www.vg.no###application
+www.vg.no##.direkte-front-box > .heading
+www.vg.no##.direkte-front-list
+www.vg.no##.direkte-link-wrapper
+www.vg.no##.tip-link.window-popup
+www.vg.no##.reg-grid-aside
+
+! 2/22/2019 https://resett.no
+||resett.no/wp-content/uploads/2018/06/resett-banner-vipps.jpg?x97588$image
+resett.no##.td-main-sidebar.td-pb-span4
+resett.no##.td-scroll-up-visible.td-scroll-up
+resett.no##li.heateorSssSharingRound:nth-of-type(1) > .heateorSssFacebookBackground.heateorSssSharing > .heateor_sss_facebook_count.heateor_sss_square_count
+resett.no##.heateor_sss_sharing_title
+resett.no###stottossartikkel
+
