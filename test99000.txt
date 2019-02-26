@@ -1962,3 +1962,23 @@ resett.no##li.heateorSssSharingRound:nth-of-type(1) > .heateorSssFacebookBackgro
 resett.no##.heateor_sss_sharing_title
 resett.no###stottossartikkel
 
+! 2/22/2019 https://rssnyheter.sveip.no
+rssnyheter.sveip.no##.toolbar_cont
+
+! 2/24/2019 https://resett.no
+resett.no##strong > [href="https://resett.no/stott-oss/"]
+
+! 2/24/2019 https://www.wsj.com
+www.wsj.com##.style__at16units_1Ajy8qI5jPkLqbasqIErFs.style__stick-cust-nav_GVvxlwhu56xsYLpEYcYl6.style__scrolled_3f55E_Sg705w7aXJWonyxo.style__wsj-header_2eGdYq6qJ9DnSzu70Z4bo1
+
+! 2/25/2019 https://www.imdb.com
+||player.twitch.tv/?allowfullscreen&channel=imdb&autoplay&muted&playsinline&origin=https%3A%2F%2Fwww.imdb.com$subdocument
+www.imdb.com###front-row-video
+www.imdb.com##.video-player-aspect
+www.imdb.com##.front-row-inner
+www.imdb.com##.front-row-container
+
+! 2/26/2019 https://resett.no
+resett.no###rum_sst_tab
+resett.no###reset-510384118 > .reset-adlabel
+resett.no##.td_block_template_5.td-pb-border-top.td-trending-style2.td-pb-full-cell.td_uid_5_5c755ad08136f_rand.td_block_trending_now.td_block_wrap
