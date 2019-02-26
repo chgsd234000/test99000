@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+![Adblock Plus 2.0]
 ! Name: Judas
 ! Expires: 1 days
 
