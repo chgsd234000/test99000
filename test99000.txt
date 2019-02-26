@@ -1,6 +1,6 @@
-![Adblock Plus 2.0]
-! Name: Judas
+! Title: test99000
 ! Expires: 1 days
+! Description: test 
 
 ! 12/26/2018, 10:55:20 PM https://www.tv2.no/a/10294799
 www.tv2.no##.sticky.tv2-some > .share.showMore
